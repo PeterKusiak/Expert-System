@@ -1,0 +1,32 @@
+[
+    {
+        "caption":"1",
+        "caption_2": "Herald-Guardian-Crusader",
+        "name": "lvl_1",
+        "value": 1
+    },
+    {
+        "caption":"2",
+        "caption_2": "Archon",
+        "name": "lvl_2",
+        "value": 2
+    },
+    {
+        "caption":"3",
+        "caption_2": "Legend",
+        "name": "lvl_3",
+        "value": 3
+    },
+    {
+        "caption":"4",
+        "caption_2": "Ancient",
+        "name": "lvl_4",
+        "value": 4
+    },
+    {
+        "caption":"5",
+        "caption_2": "Divine-Immortal",
+        "name": "lvl_5",
+        "value": 5
+    }
+]

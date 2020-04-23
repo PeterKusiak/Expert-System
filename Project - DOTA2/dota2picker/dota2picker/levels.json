@@ -1,0 +1,27 @@
+[
+    {
+        "localized_name": "Herald-Guardin-Crusader",
+        "name": "lvl_1",
+        "id": 1
+    },
+    {
+        "localized_name": "Archon",
+        "name": "lvl_2",
+        "id": 2
+    },
+    {
+        "localized_name": "Legend",
+        "name": "lvl_3",
+        "id": 3
+    },
+    {
+        "localized_name": "Ancient",
+        "name": "lvl_4",
+        "id": 4
+    },
+    {
+        "localized_name": "Divine-Immortal",
+        "name": "lvl_5",
+        "id": 5
+    }
+]

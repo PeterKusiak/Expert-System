@@ -1,0 +1,5013 @@
+[
+    {
+        "localized_name": "Pudge",
+        "name": "npc_dota_hero_pudge",
+        "id": 1,
+        "cat_wins": {
+            "L1": 50.28,
+            "L2": 49.26,
+            "L3": 47.90,
+            "L4": 46.34,
+            "L5": 42.39
+        },
+        "data": {
+            "best_vs": [
+                "Pugna",
+                "Sniper",
+                "Necrophos",
+                "Underlord",
+                "Drow Ranger"
+            ],
+            "best_vs_advantage": [
+                2.96,
+                2.71,
+                2.41,
+                2.06,
+                1.82
+            ],
+            "worst_vs": [
+                "Magnus",
+                "Lycan",
+                "IO",
+                "Grimstroke",
+                "Earth Spirit"
+            ],
+            "worst_vs_disadvantage": [
+                2.67,
+                2.52,
+                2.38,
+                2.24,
+                1.86
+            ]
+        }
+    },
+    {
+        "localized_name": "Ogre Magi",
+        "name": "npc_dota_hero_ogre_magi",
+        "id": 2,
+        "cat_wins": {
+            "L1": 55.00,
+            "L2": 54.05,
+            "L3": 53.14,
+            "L4": 51.70,
+            "L5": 49.43
+        },
+        "data": {
+            "best_vs": [
+                "Troll Warlord",
+                "Ursa",
+                "Riki",
+                "phantom Assassin",
+                "Bounty Hunter"
+            ],
+            "best_vs_advantage": [
+                1.81,
+                1.21,
+                1.19,
+                1.09,
+                1.02
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Meepo",
+                "Lycan",
+                "Naga Siren",
+                "lo"
+            ],
+            "worst_vs_disadvantage": [
+                3.85,
+                2.92,
+                2.86,
+                2.68,
+                2.51
+            ]
+        }
+    },
+    {
+        "localized_name": "Lion",
+        "name": "npc_dota_hero_lion",
+        "id": 3,
+        "cat_wins": {
+            "L1": 47.75,
+            "L2": 47.40,
+            "L3": 47.71,
+            "L4": 48.18,
+            "L5": 47.48
+        },
+        "data": {
+            "best_vs": [
+                "Troll Wallord",
+                "Naga Siren",
+                "Bounty Hunter",
+                "Faceless Void",
+                "Juggernaut"
+            ],
+            "best_vs_advantage": [
+                2.16,
+                1.75,
+                1.62,
+                1.50,
+                1.48
+            ],
+            "worst_vs": [
+                "Gyrocopter",
+                "Tiny",
+                "Kunkka",
+                "Chen",
+                "lo"
+            ],
+            "worst_vs_disadvantage": [
+                2.21,
+                1.75,
+                1.69,
+                1.38,
+                1.35
+            ]
+        }
+    },
+    {
+        "localized_name": "Sniper",
+        "name": "npc_dota_hero_sniper",
+        "id": 4,
+        "cat_wins": {
+            "L1": 52.12,
+            "L2": 52.42,
+            "L3": 50.74,
+            "L4": 49.47,
+            "L5": 49.88
+        },
+        "data": {
+            "best_vs": [
+                "Necrophos",
+                "Beastmaster",
+                "Underlord",
+                "Visage",
+                "Razor"
+            ],
+            "best_vs_advantage": [
+                3.80,
+                3.74,
+                3.23,
+                2.82,
+                2.58
+            ],
+            "worst_vs": [
+                "Morphling",
+                "Storm",
+                "Spirit",
+                "Spectre",
+                "Phantom Assassin",
+                "Pudge"
+            ],
+            "worst_vs_disadvantage": [
+                4.43,
+                4.05,
+                3.19,
+                2.91,
+                2.86
+            ]
+        }
+    },
+    {
+        "localized_name": "Phantom Assassin",
+        "name": "npc_dota_hero_phantom_assassin",
+        "id": 5,
+        "cat_wins": {
+            "L1": 49.47,
+            "L2": 48.22,
+            "L3": 47.71,
+            "L4": 46.90,
+            "L5": 45.22
+        },
+        "data": {
+            "best_vs": [
+                "Anti-Mage",
+                "Lone Druid",
+                "Sniper",
+                "Riki",
+                "Alchemist"
+            ],
+            "best_vs_advantage": [
+                3.56,
+                3.04,
+                2.94,
+                2.32,
+                2.1
+            ],
+            "worst_vs": [
+                "Morphling",
+                "Omniknight",
+                "Tiny",
+                "Tidehunter",
+                "Medusa"
+            ],
+            "worst_vs_disadvantage": []
+        }
+    },
+    {
+        "localized_name": "Juggernaut",
+        "name": "npc_dota_hero_juggernaut",
+        "id": 6,
+        "cat_wins": {
+            "L1": 48.99,
+            "L2": 49.99,
+            "L3": 49.47,
+            "L4": 48.81,
+            "L5": 46.27
+        },
+        "data": {
+            "best_vs": [
+                "Underlord",
+                "Tidehunter",
+                "Bloodseeker",
+                "Naga Siren",
+                "Jakiro"
+            ],
+            "best_vs_advantage": [
+                3.93,
+                2.83,
+                2.65,
+                2.48,
+                1.99
+            ],
+            "worst_vs": [
+                "Io",
+                "Clinkz",
+                "Morphling",
+                "Nature's Prophet",
+                "Broodmother"
+            ],
+            "worst_vs_disadvantage": [
+                2.94,
+                2.33,
+                2.31,
+                2.31,
+                2.25
+            ]
+        }
+    },
+    {
+        "localized_name": "Wraith King",
+        "name": "npc_dota_hero_wraith_king",
+        "id": 7,
+        "cat_wins": {
+            "L1": 57.18,
+            "L2": 55.53,
+            "L3": 55.02,
+            "L4": 53.28,
+            "L5": 52.05
+        },
+        "data": {
+            "best_vs": [
+                "Bloodseeker",
+                "Riki",
+                "Techies",
+                "Drow Ranger",
+                "Pudge"
+            ],
+            "best_vs_advantage": [
+                1.99,
+                1.9,
+                1.81,
+                1.4,
+                1.36
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Undying",
+                "Io",
+                "Underlord",
+                "Broodmother"
+            ],
+            "worst_vs_disadvantage": [
+                4.78,
+                3.42,
+                3.18,
+                3.18,
+                2.91
+            ]
+        }
+    },
+    {
+        "localized_name": "Legion Commander",
+        "name": "npc_dota_hero_legion_commander",
+        "id": 8,
+        "cat_wins": {
+            "L1": 49.68,
+            "L2": 49.19,
+            "L3": 49.35,
+            "L4": 49.23,
+            "L5": 48.12
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Anti-Mage",
+                "Naga Siren",
+                "Queen of Pain",
+                "Silencer"
+            ],
+            "best_vs_advantage": [
+                5.43,
+                4.32,
+                4.26,
+                2.43,
+                2.26
+            ],
+            "worst_vs": [
+                "Pangolier",
+                "Medusa",
+                "Monkey King",
+                "Troll Warlord",
+                "Winter Wyvern"
+            ],
+            "worst_vs_disadvantage": [
+                2.76,
+                2.35,
+                2.32,
+                2.32,
+                2.31
+            ]
+        }
+    },
+    {
+        "localized_name": "Crystal Maiden",
+        "name": "npc_dota_hero_crystal_maiden",
+        "id": 9,
+        "cat_wins": {
+            "L1": 53.2,
+            "L2": 51.94,
+            "L3": 51.47,
+            "L4": 50.28,
+            "L5": 49.98
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Meepo",
+                "Bounty Hunter",
+                "Naga Siren",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                2.75,
+                2.14,
+                1.72,
+                1.56,
+                1.52
+            ],
+            "worst_vs": [
+                "Enigma",
+                "Earth Spirit",
+                "Magnus",
+                "Outworld Devourer",
+                "Pudge"
+            ],
+            "worst_vs_disadvantage": [
+                1.61,
+                1.56,
+                1.45,
+                1.42,
+                1.39
+            ]
+        }
+    },
+    {
+        "localized_name": "Witch Doctor",
+        "name": "npc_dota_hero_witch_doctor",
+        "id": 10,
+        "cat_wins": {
+            "L1": 50.86,
+            "L2": 51.37,
+            "L3": 50.73,
+            "L4": 49.79,
+            "L5": 49.14
+        },
+        "data": {
+            "best_vs": [
+                "Centaur Warrunner",
+                "Meepo",
+                "Batrider",
+                "Axe",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                1.82,
+                1.66,
+                1.46,
+                1.36,
+                1.36
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Morphling",
+                "Nature's Prophet",
+                "Tinker",
+                "Techies"
+            ],
+            "worst_vs_disadvantage": [
+                3.14,
+                1.79,
+                1.58,
+                1.56,
+                1.53
+            ]
+        }
+    },
+    {
+        "localized_name": "Bristleback",
+        "name": "npc_dota_hero_bristleback",
+        "id": 11,
+        "cat_wins": {
+            "L1": 51.14,
+            "L2": 50.06,
+            "L3": 48.68,
+            "L4": 47.53,
+            "L5": 46.76
+        },
+        "data": {
+            "best_vs": [
+                "Lycan",
+                "Visage",
+                "Lone Druid",
+                "Chaos Knight",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                5.15,
+                3.73,
+                3.45,
+                2.89,
+                2.76
+            ],
+            "worst_vs": [
+                "Slark",
+                "Silencer",
+                "Viper",
+                "Anti-Mage",
+                "Drow Ranger"
+            ],
+            "worst_vs_disadvantage": [
+                3.95,
+                3.83,
+                2.91,
+                2.42,
+                2.19
+            ]
+        }
+    },
+    {
+        "localized_name": "Slark",
+        "name": "npc_dota_hero_slark",
+        "id": 12,
+        "cat_wins": {
+            "L1": 50.09,
+            "L2": 49.52,
+            "L3": 49.25,
+            "L4": 49.59,
+            "L5": 49.98
+        },
+        "data": {
+            "best_vs": [
+                "Bristleback",
+                "Abaddon",
+                "Dragon Knight",
+                "Tidehunter",
+                "Templar Assassin"
+            ],
+            "best_vs_advantage": [
+                3.85,
+                3.25,
+                2.92,
+                2.47,
+                2.46
+            ],
+            "worst_vs": [
+                "Leshrac",
+                "Outworld Devourer",
+                "Necrophos",
+                "Pugna",
+                "Puck"
+            ],
+            "worst_vs_disadvantage": [
+                3.53,
+                3.33,
+                2.57,
+                2.54,
+                2.47
+            ]
+        }
+    },
+    {
+        "localized_name": "Faceless Void",
+        "name": "npc_dota_hero_faceless_void",
+        "id": 13,
+        "cat_wins": {
+            "L1": 47.87,
+            "L2": 48.25,
+            "L3": 48.67,
+            "L4": 48.79,
+            "L5": 48.34
+        },
+        "data": {
+            "best_vs": [
+                "Weaver",
+                "Dark Seer",
+                "Lifestealer",
+                "Undying",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                3.41,
+                2.42,
+                2.18,
+                1.81,
+                1.47
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Doom",
+                "Broodmother",
+                "Lion"
+            ],
+            "worst_vs_disadvantage": [
+                2.15,
+                2,
+                1.76,
+                1.64,
+                1.56
+            ]
+        }
+    },
+    {
+        "localized_name": "Windranger",
+        "name": "npc_dota_hero_windranger",
+        "id": 14,
+        "cat_wins": {
+            "L1": 48.85,
+            "L2": 48.6,
+            "L3": 48.59,
+            "L4": 48.31,
+            "L5": 47.82
+        },
+        "data": {
+            "best_vs": [
+                "Huskar",
+                "Troll Warlord",
+                "Monkey King",
+                "Ursa",
+                "Lone Druid"
+            ],
+            "best_vs_advantage": [
+                3.28,
+                2.79,
+                2.5,
+                2.33,
+                2.33
+            ],
+            "worst_vs": [
+                "Mars",
+                "Arc Warden",
+                "Spectre",
+                "Shadow Demon",
+                "Ember Spirit"
+            ],
+            "worst_vs_disadvantage": [
+                2.32,
+                2.32,
+                2.17,
+                2.15,
+                1.95
+            ]
+        }
+    },
+    {
+        "localized_name": "Axe",
+        "name": "npc_dota_hero_axe",
+        "id": 15,
+        "cat_wins": {
+            "L1": 52.6,
+            "L2": 52.09,
+            "L3": 52.21,
+            "L4": 51.73,
+            "L5": 52.84
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Naga Siren",
+                "Broodmother",
+                "Visage",
+                "Terrorblade"
+            ],
+            "best_vs_advantage": [
+                4.66,
+                3.83,
+                3.46,
+                2.84,
+                2.8
+            ],
+            "worst_vs": [
+                "Venomancer",
+                "Outworld Devourer",
+                "Monkey King",
+                "Gyrocopter",
+                "Viper"
+            ],
+            "worst_vs_disadvantage": [
+                2.72,
+                2.58,
+                2.55,
+                2.12,
+                2.01
+            ]
+        }
+    },
+    {
+        "localized_name": "Dazzle",
+        "name": "npc_dota_hero_dazzle",
+        "id": 16,
+        "cat_wins": {
+            "L1": 52.39,
+            "L2": 52.23,
+            "L3": 50.43,
+            "L4": 50.37,
+            "L5": 50.31
+        },
+        "data": {
+            "best_vs": [
+                "Spectre",
+                "Centaur Warrunner",
+                "Necrophos",
+                "Visage",
+                "Wraith King"
+            ],
+            "best_vs_advantage": [
+                3.03,
+                2.27,
+                2.13,
+                2.13,
+                1.99
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Broodmother",
+                "Ancient Apparition",
+                "Tidehunter",
+                "Terrorblade"
+            ],
+            "worst_vs_disadvantage": [
+                2.06,
+                1.8,
+                1.74,
+                1.48,
+                1.43
+            ]
+        }
+    },
+    {
+        "localized_name": "Anti-Mage",
+        "name": "npc_dota_hero_antimage",
+        "id": 17,
+        "cat_wins": {
+            "L1": 47.94,
+            "L2": 48.78,
+            "L3": 50.43,
+            "L4": 50.1,
+            "L5": 48.77
+        },
+        "data": {
+            "best_vs": [
+                "Zeus",
+                "Medusa",
+                "Storm Spirit",
+                "Clockwerk",
+                "Spectre"
+            ],
+            "best_vs_advantage": [
+                4.79,
+                4.72,
+                4.71,
+                4.28,
+                3.66
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Legion Commander",
+                "Troll Warlord",
+                "Lone Druid",
+                "Slardar"
+            ],
+            "worst_vs_disadvantage": [
+                9.2,
+                4.43,
+                3.97,
+                3.9,
+                3.89
+            ]
+        }
+    },
+    {
+        "localized_name": "Monkey King",
+        "name": "npc_dota_hero_monkey_king",
+        "id": 18,
+        "cat_wins": {
+            "L1": 48.27,
+            "L2": 49.46,
+            "L3": 49.95,
+            "L4": 50.18,
+            "L5": 49.71
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Broodmother",
+                "Alchemist",
+                "Underlord",
+                "Anti-Mage"
+            ],
+            "best_vs_advantage": [
+                6.64,
+                5.97,
+                5.4,
+                2.93,
+                2.83
+            ],
+            "worst_vs": [
+                "Tinker",
+                "Outworld Devourer",
+                "Storm Spirit",
+                "Viper",
+                "Queen of Pain"
+            ],
+            "worst_vs_disadvantage": [
+                3.37,
+                3.31,
+                3.03,
+                3,
+                2.71
+            ]
+        }
+    },
+    {
+        "localized_name": "Invoker",
+        "name": "npc_dota_hero_invoker",
+        "id": 19,
+        "cat_wins": {
+            "L1": 45.34,
+            "L2": 45.54,
+            "L3": 46.49,
+            "L4": 47.24,
+            "L5": 49.17
+        },
+        "data": {
+            "best_vs": [
+                "Medusa",
+                "Wraith King",
+                "Dark Seer",
+                "Troll Warlord",
+                "Meepo"
+            ],
+            "best_vs_advantage": [
+                3.09,
+                2.62,
+                2.37,
+                2.08,
+                1.71
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Void Spirit",
+                "Riki",
+                "Io",
+                "Puck"
+            ],
+            "worst_vs_disadvantage": [
+                4.62,
+                3.3,
+                1.39,
+                1.38,
+                1.38
+            ]
+        }
+    },
+    {
+        "localized_name": "Shadow Shaman",
+        "name": "npc_dota_hero_shadow_shaman",
+        "id": 20,
+        "cat_wins": {
+            "L1": 48.61,
+            "L2": 48.79,
+            "L3": 49.06,
+            "L4": 49.32,
+            "L5": 48.56
+        },
+        "data": {
+            "best_vs": [
+                "Ursa",
+                "Anti-Mage",
+                "Huskar",
+                "Weaver",
+                "Nyx Assassin"
+            ],
+            "best_vs_advantage": [
+                1.98,
+                1.74,
+                1.7,
+                1.68,
+                1.6
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Arc Warden",
+                "Terrorblade",
+                "Phantom Lancer",
+                "Gyrocopter"
+            ],
+            "worst_vs_disadvantage": [
+                4.26,
+                2.6,
+                2.59,
+                2.38,
+                1.88
+            ]
+        }
+    },
+    {
+        "localized_name": "Drow Ranger",
+        "name": "npc_dota_hero_drow_ranger",
+        "id": 21,
+        "cat_wins": {
+            "L1": 49.05,
+            "L2": 51.18,
+            "L3": 51.57,
+            "L4": 52.45,
+            "L5": 47.72
+        },
+        "data": {
+            "best_vs": [
+                "Necrophos",
+                "Death Prophet",
+                "Visage",
+                "Lone Druid",
+                "Bane"
+            ],
+            "best_vs_advantage": [
+                3.59,
+                2.99,
+                2.89,
+                2.56,
+                2.55
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Sniper",
+                "Tinker",
+                "Lycan",
+                "Nature's Prophet"
+            ],
+            "worst_vs_disadvantage": [
+                3.48,
+                2.52,
+                2.52,
+                2.43,
+                2.24
+            ]
+        }
+    },
+    {
+        "localized_name": "Bloodseeker",
+        "name": "npc_dota_hero_bloodseeker",
+        "id": 22,
+        "cat_wins": {
+            "L1": 54.62,
+            "L2": 55.03,
+            "L3": 54.2,
+            "L4": 53.09,
+            "L5": 51.4
+        },
+        "data": {
+            "best_vs": [
+                "Slark",
+                "Lycan",
+                "Huskar",
+                "Centaur Warrunner",
+                "Anti-Mage"
+            ],
+            "best_vs_advantage": [
+                2.84,
+                2.66,
+                2.65,
+                2.32,
+                2.3
+            ],
+            "worst_vs": [
+                "Storm Spirit",
+                "Medusa",
+                "Tinker",
+                "Juggernaut",
+                "Brewmaster"
+            ],
+            "worst_vs_disadvantage": [
+                3.12,
+                3.04,
+                2.59,
+                2.48,
+                2.34
+            ]
+        }
+    },
+    {
+        "localized_name": "Zeus",
+        "name": "npc_dota_hero_zeus",
+        "id": 23,
+        "cat_wins": {
+            "L1": 51.19,
+            "L2": 50.38,
+            "L3": 50.99,
+            "L4": 49.47,
+            "L5": 48.42
+        },
+        "data": {
+            "best_vs": [
+                "Outworld Devourer",
+                "Shadow Fiend",
+                "Terrorblade",
+                "Naga Siren",
+                "Tinker"
+            ],
+            "best_vs_advantage": [
+                3.18,
+                2.99,
+                2.52,
+                2.35,
+                2.32
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Anti-Mage",
+                "Visage",
+                "Chen",
+                "Templar Assassin"
+            ],
+            "worst_vs_disadvantage": [
+                6.1,
+                4.84,
+                4.61,
+                3.77,
+                3.39
+            ]
+        }
+    },
+    {
+        "localized_name": "Spirit Breaker",
+        "name": "npc_dota_hero_spirit_breaker",
+        "id": 24,
+        "cat_wins": {
+            "L1": 50.35,
+            "L2": 51,
+            "L3": 50.63,
+            "L4": 50.47,
+            "L5": 50.7
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Drow Ranger",
+                "Lifestealer",
+                "Lone Druid",
+                "Legion Commander"
+            ],
+            "best_vs_advantage": [
+                4.42,
+                1.49,
+                1.4,
+                1.39,
+                1.37
+            ],
+            "worst_vs": [
+                "Underlord",
+                "Enigma",
+                "Meepo",
+                "Oracle",
+                "Terrorblade"
+            ],
+            "worst_vs_disadvantage": [
+                2.62,
+                2.5,
+                2.23,
+                2.04,
+                1.86
+            ]
+        }
+    },
+    {
+        "localized_name": "Silencer",
+        "name": "npc_dota_hero_silencer",
+        "id": 25,
+        "cat_wins": {
+            "L1": 49.4,
+            "L2": 49.61,
+            "L3": 49.59,
+            "L4": 48.63,
+            "L5": 46.71
+        },
+        "data": {
+            "best_vs": [
+                "Bristleback",
+                "Timbersaw",
+                "Storm Spirit",
+                "Outworld Devourer",
+                "Necrophos"
+            ],
+            "best_vs_advantage": [
+                4.13,
+                2.93,
+                2.46,
+                1.78,
+                1.71
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Naga Siren",
+                "Arc Warden",
+                "Lycan",
+                "Broodmother"
+            ],
+            "worst_vs_disadvantage": [
+                4.38,
+                4.16,
+                3.55,
+                3.34,
+                3.11
+            ]
+        }
+    },
+    {
+        "localized_name": "Lich",
+        "name": "npc_dota_hero_lich",
+        "id": 26,
+        "cat_wins": {
+            "L1": 51.19,
+            "L2": 51.72,
+            "L3": 51.4,
+            "L4": 50.47,
+            "L5": 49.41
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Tusk",
+                "Legion Commander",
+                "Spirit Breaker"
+            ],
+            "best_vs_advantage": [
+                4.52,
+                1.75,
+                1.71,
+                1.6,
+                1.5
+            ],
+            "worst_vs": [
+                "Leshrac",
+                "Pugna",
+                "Enchantress",
+                "Clinkz",
+                "Phoenix"
+            ],
+            "worst_vs_disadvantage": [
+                2.28,
+                2,
+                1.92,
+                1.81,
+                1.73
+            ]
+        }
+    },
+    {
+        "localized_name": "Phantom Lancer",
+        "name": "npc_dota_hero_phantom_lancer",
+        "id": 27,
+        "cat_wins": {
+            "L1": 51.94,
+            "L2": 50.75,
+            "L3": 51.61,
+            "L4": 51.05,
+            "L5": 51.3
+        },
+        "data": {
+            "best_vs": [
+                "Templar Assassin",
+                "Wraith King",
+                "Silencer",
+                "Clinkz",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                4.78,
+                4.54,
+                4.34,
+                4.01,
+                3.86
+            ],
+            "worst_vs": [
+                "Sand King",
+                "Timbersaw",
+                "Dark Seer",
+                "Axe",
+                "Puck"
+            ],
+            "worst_vs_disadvantage": [
+                5.65,
+                5.38,
+                5.31,
+                4.97,
+                4.83
+            ]
+        }
+    },
+    {
+        "localized_name": "Earthshaker",
+        "name": "npc_dota_hero_earthshaker",
+        "id": 28,
+        "cat_wins": {
+            "L1": 48.22,
+            "L2": 48.65,
+            "L3": 48.65,
+            "L4": 48.67,
+            "L5": 50.56
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Broodmother",
+                "Naga Siren",
+                "Lycan",
+                "Phantom Lancer"
+            ],
+            "best_vs_advantage": [
+                10.28,
+                9.04,
+                4.51,
+                4.02,
+                3.33
+            ],
+            "worst_vs": [
+                "Viper",
+                "Clockwerk",
+                "Gyrocopter",
+                "Night Stalker",
+                "Tiny"
+            ],
+            "worst_vs_disadvantage": [
+                2.81,
+                2.11,
+                2.06,
+                1.5,
+                1.38
+            ]
+        }
+    },
+    {
+        "localized_name": "Weaver",
+        "name": "npc_dota_hero_weaver",
+        "id": 29,
+        "cat_wins": {
+            "L1": 49.81,
+            "L2": 50.68,
+            "L3": 51.7,
+            "L4": 51.63,
+            "L5": 52.2
+        },
+        "data": {
+            "best_vs": [
+                "Visage",
+                "Brewmaster",
+                "Razor",
+                "Lone Druid",
+                "Death Prophet"
+            ],
+            "best_vs_advantage": [
+                5.31,
+                3.86,
+                3.79,
+                2.82,
+                2.58
+            ],
+            "worst_vs": [
+                "Techies",
+                "Faceless Void",
+                "Morphling",
+                "Doom",
+                "Shadow Shaman"
+            ],
+            "worst_vs_disadvantage": [
+                3.7,
+                3.64,
+                2.02,
+                1.78,
+                1.7
+            ]
+        }
+    },
+    {
+        "localized_name": "Snapfire",
+        "name": "npc_dota_hero_snapfire",
+        "id": 30,
+        "cat_wins": {
+            "L1": 50.46,
+            "L2": 50.31,
+            "L3": 50.17,
+            "L4": 49.72,
+            "L5": 49.47
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Clockwerk",
+                "Underlord",
+                "Tidehunter"
+            ],
+            "best_vs_advantage": [
+                4.21,
+                3.37,
+                2.27,
+                1.64,
+                1.56
+            ],
+            "worst_vs": [
+                "Visage",
+                "Io",
+                "Clinkz",
+                "Broodmother",
+                "Brewmaster"
+            ],
+            "worst_vs_disadvantage": [
+                2.12,
+                2.07,
+                2.03,
+                1.96,
+                1.73
+            ]
+        }
+    },
+    {
+        "localized_name": "Troll Warlord",
+        "name": "npc_dota_hero_troll_warlord",
+        "id": 31,
+        "cat_wins": {
+            "L1": 53.56,
+            "L2": 52.29,
+            "L3": 50.9,
+            "L4": 49.54,
+            "L5": 50.68
+        },
+        "data": {
+            "best_vs": [
+                "Anti-Mage",
+                "Meepo",
+                "Lycan",
+                "Legion Commander",
+                "Riki"
+            ],
+            "best_vs_advantage": [
+                4.23,
+                3.89,
+                2.97,
+                2.91,
+                2.8
+            ],
+            "worst_vs": [
+                "Outworld Devourer",
+                "Tinker",
+                "Razor",
+                "Oracle",
+                "Pugna"
+            ],
+            "worst_vs_disadvantage": [
+                4.96,
+                4.42,
+                3.92,
+                3.23,
+                3.23
+            ]
+        }
+    },
+    {
+        "localized_name": "Rubick",
+        "name": "npc_dota_hero_rubick",
+        "id": 32,
+        "cat_wins": {
+            "L1": 46.78,
+            "L2": 46.81,
+            "L3": 47.54,
+            "L4": 48.35,
+            "L5": 49.01
+        },
+        "data": {
+            "best_vs": [
+                "Underlord",
+                "Enigma",
+                "Medusa",
+                "Luna",
+                "Jakiro"
+            ],
+            "best_vs_advantage": [
+                2.85,
+                2.67,
+                2.14,
+                1.95,
+                1.95
+            ],
+            "worst_vs": [
+                "Batrider",
+                "Huskar",
+                "Tiny",
+                "Broodmother",
+                "Necrophos"
+            ],
+            "worst_vs_disadvantage": [
+                2.13,
+                1.89,
+                1.42,
+                1.1,
+                1
+            ]
+        }
+    },
+    {
+        "localized_name": "Skywrath Mage",
+        "name": "npc_dota_hero_skywrath_mage",
+        "id": 33,
+        "cat_wins": {
+            "L1": 50.79,
+            "L2": 49.83,
+            "L3": 49.84,
+            "L4": 49.8,
+            "L5": 47.81
+        },
+        "data": {
+            "best_vs": [
+                "Necrophos",
+                "Morphling",
+                "Enigma",
+                "Pangolier",
+                "Monkey King"
+            ],
+            "best_vs_advantage": [
+                2.32,
+                2.29,
+                2.22,
+                1.94,
+                1.88
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Shadow Demon",
+                "Lycan",
+                "Batrider",
+                "Templar Assassin"
+            ],
+            "worst_vs_disadvantage": [
+                3.56,
+                2.94,
+                2.76,
+                2.64,
+                2.58
+            ]
+        }
+    },
+    {
+        "localized_name": "Lina",
+        "name": "npc_dota_hero_lina",
+        "id": 34,
+        "cat_wins": {
+            "L1": 45.9,
+            "L2": 48.09,
+            "L3": 49.12,
+            "L4": 49.72,
+            "L5": 49.9
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Broodmother",
+                "Chen",
+                "Huskar",
+                "Phoenix"
+            ],
+            "best_vs_advantage": [
+                3.33,
+                2.51,
+                2.5,
+                2.2,
+                2.17
+            ],
+            "worst_vs": [
+                "Sniper",
+                "Gyrocopter",
+                "Medusa",
+                "Drow Ranger",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                2.06,
+                1.78,
+                1.7,
+                1.51,
+                1.42
+            ]
+        }
+    },
+    {
+        "localized_name": "Bounty Hunter",
+        "name": "npc_dota_hero_bounty_hunter",
+        "id": 35,
+        "cat_wins": {
+            "L1": 50.55,
+            "L2": 51.89,
+            "L3": 52.51,
+            "L4": 54.06,
+            "L5": 53.4
+        },
+        "data": {
+            "best_vs": [
+                "Riki",
+                "Clinkz",
+                "Night Stalker",
+                "Alchemist",
+                "Warlock"
+            ],
+            "best_vs_advantage": [
+                4.18,
+                3.6,
+                2.09,
+                1.71,
+                1.68
+            ],
+            "worst_vs": [
+                "Naga Siren",
+                "Meepo",
+                "Omniknight",
+                "Enchantress",
+                "Oracle"
+            ],
+            "worst_vs_disadvantage": [
+                4.8,
+                3.07,
+                2.88,
+                2.66,
+                2.58
+            ]
+        }
+    },
+    {
+        "localized_name": "Mirana",
+        "name": "npc_dota_hero_mirana",
+        "id": 36,
+        "cat_wins": {
+            "L1": 50.05,
+            "L2": 50.46,
+            "L3": 50.71,
+            "L4": 50.98,
+            "L5": 50.4
+        },
+        "data": {
+            "best_vs": [
+                "Monkey King",
+                "Keeper of the Light",
+                "Clockwerk",
+                "Ursa",
+                "Ancient Apparition"
+            ],
+            "best_vs_advantage": [
+                1.14,
+                1.07,
+                1,
+                0.99,
+                0.97
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Naga Siren",
+                "Meepo",
+                "Phantom Lancer",
+                "Lycan"
+            ],
+            "worst_vs_disadvantage": [
+                3.62,
+                2.8,
+                2.31,
+                2.25,
+                2.01
+            ]
+        }
+    },
+    {
+        "localized_name": "Ursa",
+        "name": "npc_dota_hero_ursa",
+        "id": 37,
+        "cat_wins": {
+            "L1": 53.11,
+            "L2": 54.24,
+            "L3": 52.78,
+            "L4": 52.27,
+            "L5": 51.1
+        },
+        "data": {
+            "best_vs": [
+                "Underlord",
+                "Pudge",
+                "Juggernaut",
+                "Timbersaw",
+                "Magnus"
+            ],
+            "best_vs_advantage": [
+                3.49,
+                2.36,
+                2.29,
+                2.22,
+                1.88
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Chaos Knight",
+                "Beastmaster",
+                "Brewmaster",
+                "Death Prophet"
+            ],
+            "worst_vs_disadvantage": [
+                3.64,
+                3.25,
+                3.11,
+                2.84,
+                2.31
+            ]
+        }
+    },
+    {
+        "localized_name": "Jakiro",
+        "name": "npc_dota_hero_jakiro",
+        "id": 38,
+        "cat_wins": {
+            "L1": 54.01,
+            "L2": 53.29,
+            "L3": 52.98,
+            "L4": 53.14,
+            "L5": 52.41
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Beastmaster",
+                "Visage",
+                "Phantom Lancer"
+            ],
+            "best_vs_advantage": [
+                7.19,
+                5.36,
+                3.44,
+                3,
+                2.87
+            ],
+            "worst_vs": [
+                "Razor",
+                "Juggernaut",
+                "Rubick",
+                "Lifestealer",
+                "Weaver"
+            ],
+            "worst_vs_disadvantage": [
+                1.91,
+                1.87,
+                1.84,
+                1.78,
+                1.74
+            ]
+        }
+    },
+    {
+        "localized_name": "Shadow Fiend",
+        "name": "npc_dota_hero_shadow_fiend",
+        "id": 39,
+        "cat_wins": {
+            "L1": 49.47,
+            "L2": 48.9,
+            "L3": 49.17,
+            "L4": 48.16,
+            "L5": 46.55
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Alchemist",
+                "Anti-Mage",
+                "Spectre"
+            ],
+            "best_vs_advantage": [
+                6.77,
+                2.08,
+                1.96,
+                1.89,
+                1.81
+            ],
+            "worst_vs": [
+                "Templar Assassin",
+                "Arc Warden",
+                "Zeus",
+                "Outworld Devourer",
+                "Visage"
+            ],
+            "worst_vs_disadvantage": [
+                4.3,
+                3.24,
+                2.98,
+                2.46,
+                1.9
+            ]
+        }
+    },
+    {
+        "localized_name": "Dragon Knight",
+        "name": "npc_dota_hero_dragon_knight",
+        "id": 40,
+        "cat_wins": {
+            "L1": 52.88,
+            "L2": 51.75,
+            "L3": 51.69,
+            "L4": 51.98,
+            "L5": 52.02
+        },
+        "data": {
+            "best_vs": [
+                "Puck",
+                "Broodmother",
+                "Templar Assassin",
+                "Bristleback",
+                "Riki"
+            ],
+            "best_vs_advantage": [
+                2.69,
+                2.28,
+                2.11,
+                1.51,
+                1.46
+            ],
+            "worst_vs": [
+                "Huskar",
+                "Outworld Devourer",
+                "Slark",
+                "Underlord",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                3.91,
+                3.63,
+                2.91,
+                2.81,
+                2.81
+            ]
+        }
+    },
+    {
+        "localized_name": "Necrophos",
+        "name": "npc_dota_hero_necrophos",
+        "id": 41,
+        "cat_wins": {
+            "L1": 51.88,
+            "L2": 53.5,
+            "L3": 52.75,
+            "L4": 52.93,
+            "L5": 51.59
+        },
+        "data": {
+            "best_vs": [
+                "Huskar",
+                "Naga Siren",
+                "Broodmother",
+                "Phantom Lancer",
+                "Meepo"
+            ],
+            "best_vs_advantage": [
+                5.28,
+                4.14,
+                4.06,
+                3.64,
+                3.58
+            ],
+            "worst_vs": [
+                "Visage",
+                "Medusa",
+                "Sniper",
+                "Drow Ranger",
+                "Viper"
+            ],
+            "worst_vs_disadvantage": [
+                4.64,
+                4.1,
+                4.07,
+                3.58,
+                3.24
+            ]
+        }
+    },
+    {
+        "localized_name": "Slardar",
+        "name": "npc_dota_hero_slardar",
+        "id": 42,
+        "cat_wins": {
+            "L1": 50.52,
+            "L2": 50.03,
+            "L3": 51.21,
+            "L4": 50.62,
+            "L5": 49.37
+        },
+        "data": {
+            "best_vs": [
+                "Anti-Mage",
+                "Lone Druid",
+                "Spectre",
+                "Chen",
+                "Pudge"
+            ],
+            "best_vs_advantage": [
+                4.08,
+                2.76,
+                2.35,
+                2.16,
+                2.02
+            ],
+            "worst_vs": [
+                "Terrorblade",
+                "Naga Siren",
+                "Phantom Lancer",
+                "Medusa",
+                "Luna"
+            ],
+            "worst_vs_disadvantage": [
+                4.14,
+                3.06,
+                2.86,
+                2.39,
+                2.36
+            ]
+        }
+    },
+    {
+        "localized_name": "Huskar",
+        "name": "npc_dota_hero_huskar",
+        "id": 43,
+        "cat_wins": {
+            "L1": 51.09,
+            "L2": 52.39,
+            "L3": 53.41,
+            "L4": 54.63,
+            "L5": 52.76
+        },
+        "data": {
+            "best_vs": [
+                "Templar Assassin",
+                "Alchemist",
+                "Ember Spirit",
+                "Meepo",
+                "Lone Druid"
+            ],
+            "best_vs_advantage": [
+                6.12,
+                5.7,
+                5.6,
+                4.82,
+                4.19
+            ],
+            "worst_vs": [
+                "Ancient Apparition",
+                "Viper",
+                "Necrophos",
+                "Broodmother",
+                "Death Prophet"
+            ],
+            "worst_vs_disadvantage": [
+                8.6,
+                7.15,
+                5.48,
+                4.76,
+                4.72
+            ]
+        }
+    },
+    {
+        "localized_name": "Nature's Prophet",
+        "name": "npc_dota_hero_natures_prophet",
+        "id": 44,
+        "cat_wins": {
+            "L1": 44.48,
+            "L2": 43.52,
+            "L3": 44.31,
+            "L4": 47.3,
+            "L5": 48.46
+        },
+        "data": {
+            "best_vs": [
+                "Razor",
+                "Death Prophet",
+                "Arc Warden",
+                "Drow Ranger",
+                "Dark Willow"
+            ],
+            "best_vs_advantage": [
+                3.08,
+                2.38,
+                2.36,
+                2.2,
+                2.17
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Leshrac",
+                "Meepo",
+                "Naga Siren",
+                "Shadow Demon"
+            ],
+            "worst_vs_disadvantage": [
+                3.6,
+                2.93,
+                2.84,
+                2.31,
+                2.31
+            ]
+        }
+    },
+    {
+        "localized_name": "Lifestealer",
+        "name": "npc_dota_hero_lifestealer",
+        "id": 45,
+        "cat_wins": {
+            "L1": 46.23,
+            "L2": 47.12,
+            "L3": 46.98,
+            "L4": 46.72,
+            "L5": 48.03
+        },
+        "data": {
+            "best_vs": [
+                "Zeus",
+                "Phoenix",
+                "Spectre",
+                "Visage",
+                "Venomancer"
+            ],
+            "best_vs_advantage": [
+                3.24,
+                3.03,
+                2.89,
+                2.69,
+                2.37
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Enigma",
+                "Templar Assassin",
+                "Faceless Void",
+                "Morphling"
+            ],
+            "worst_vs_disadvantage": [
+                3.1,
+                2.97,
+                2.66,
+                2.57,
+                2.48
+            ]
+        }
+    },
+    {
+        "localized_name": "Medusa",
+        "name": "npc_dota_hero_medusa",
+        "id": 46,
+        "cat_wins": {
+            "L1": 49.35,
+            "L2": 47.96,
+            "L3": 45.42,
+            "L4": 43.37,
+            "L5": 41.04
+        },
+        "data": {
+            "best_vs": [
+                "Undying",
+                "Queen of Pain",
+                "Outworld Devourer",
+                "Necrophos",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                4.99,
+                4.52,
+                4.1,
+                4.1,
+                4.08
+            ],
+            "worst_vs": [
+                "Anti-Mage",
+                "Broodmother",
+                "Nyx Assassin",
+                "Sniper",
+                "Invoker"
+            ],
+            "worst_vs_disadvantage": [
+                5.54,
+                4.15,
+                3.75,
+                3.51,
+                3.26
+            ]
+        }
+    },
+    {
+        "localized_name": "Viper",
+        "name": "npc_dota_hero_viper",
+        "id": 47,
+        "cat_wins": {
+            "L1": 46.24,
+            "L2": 46.65,
+            "L3": 47.09,
+            "L4": 46.64,
+            "L5": 45.66
+        },
+        "data": {
+            "best_vs": [
+                "Huskar",
+                "Templar Assassin",
+                "Queen of Pain",
+                "Necrophos",
+                "Monkey King"
+            ],
+            "best_vs_advantage": [
+                7.14,
+                5.26,
+                3.96,
+                3.17,
+                3.02
+            ],
+            "worst_vs": [
+                "Naga Siren",
+                "Arc Warden",
+                "Chaos Knight",
+                "Juggernaut",
+                "Terrorblade"
+            ],
+            "worst_vs_disadvantage": [
+                2.9,
+                2.83,
+                2.72,
+                2.6,
+                2.52
+            ]
+        }
+    },
+    {
+        "localized_name": "Riki",
+        "name": "npc_dota_hero_riki",
+        "id": 48,
+        "cat_wins": {
+            "L1": 51.44,
+            "L2": 54.43,
+            "L3": 53.85,
+            "L4": 54.05,
+            "L5": 52.79
+        },
+        "data": {
+            "best_vs": [
+                "Mars",
+                "Anti-Mage",
+                "Juggernaut",
+                "Invoker",
+                "Enigma"
+            ],
+            "best_vs_advantage": [
+                2.97,
+                2.71,
+                1.96,
+                1.96,
+                1.76
+            ],
+            "worst_vs": [
+                "Bounty Hunter",
+                "Meepo",
+                "Broodmother",
+                "Techies",
+                "Naga Siren"
+            ],
+            "worst_vs_disadvantage": [
+                4.21,
+                3.96,
+                3.06,
+                2.9,
+                2.81
+            ]
+        }
+    },
+    {
+        "localized_name": "Disruptor",
+        "name": "npc_dota_hero_disruptor",
+        "id": 49,
+        "cat_wins": {
+            "L1": 50.34,
+            "L2": 50.98,
+            "L3": 50.34,
+            "L4": 49.4,
+            "L5": 49.22
+        },
+        "data": {
+            "best_vs": [
+                "Slark",
+                "Enigma",
+                "Earthshaker",
+                "Anti-Mage",
+                "Dark Seer"
+            ],
+            "best_vs_advantage": [
+                2.19,
+                1.95,
+                1.35,
+                1.13,
+                1.13
+            ],
+            "worst_vs": [
+                "Clinkz",
+                "Huskar",
+                "Elder Titan",
+                "Templar Assassin",
+                "Tinker"
+            ],
+            "worst_vs_disadvantage": [
+                2.07,
+                1.73,
+                1.69,
+                1.69,
+                1.39
+            ]
+        }
+    },
+    {
+        "localized_name": "Morphling",
+        "name": "npc_dota_hero_morphling",
+        "id": 50,
+        "cat_wins": {
+            "L1": 48.6,
+            "L2": 47.57,
+            "L3": 46.37,
+            "L4": 47.39,
+            "L5": 47.44
+        },
+        "data": {
+            "best_vs": [
+                "Sniper",
+                "Phantom Assassin",
+                "Alchemist",
+                "Lifestealer",
+                "Omniknight"
+            ],
+            "best_vs_advantage": [
+                4.62,
+                3.42,
+                3.38,
+                2.5,
+                2.33
+            ],
+            "worst_vs": [
+                "Outworld Devourer",
+                "Ancient Apparition",
+                "Tinker",
+                "Axe",
+                "Puck"
+            ],
+            "worst_vs_disadvantage": [
+                5.46,
+                3.67,
+                3.36,
+                3,
+                2.86
+            ]
+        }
+    },
+    {
+        "localized_name": "Sven",
+        "name": "npc_dota_hero_sven",
+        "id": 51,
+        "cat_wins": {
+            "L1": 48.43,
+            "L2": 47.05,
+            "L3": 47.56,
+            "L4": 46.82,
+            "L5": 44.8
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Lycan",
+                "Meepo",
+                "Naga Siren",
+                "Phantom Lancer"
+            ],
+            "best_vs_advantage": [
+                7.46,
+                5.21,
+                5.15,
+                3.78,
+                3.28
+            ],
+            "worst_vs": [
+                "Troll Warlord",
+                "Enigma",
+                "Arc Warden",
+                "Medusa",
+                "Winter Wyvern"
+            ],
+            "worst_vs_disadvantage": [
+                2.13,
+                2.04,
+                1.93,
+                1.84,
+                1.73
+            ]
+        }
+    },
+    {
+        "localized_name": "Queen of Pain",
+        "name": "npc_dota_hero_queen_of_pain",
+        "id": 52,
+        "cat_wins": {
+            "L1": 49.12,
+            "L2": 50.81,
+            "L3": 51.1,
+            "L4": 52.15,
+            "L5": 53.57
+        },
+        "data": {
+            "best_vs": [
+                "Outworld Devourer",
+                "Razor",
+                "Monkey King",
+                "Clockwerk",
+                "Keeper of the Light"
+            ],
+            "best_vs_advantage": [
+                5.13,
+                3.45,
+                2.88,
+                2.01,
+                1.97
+            ],
+            "worst_vs": [
+                "Medusa",
+                "Puck",
+                "Viper",
+                "Huskar",
+                "Legion Commander"
+            ],
+            "worst_vs_disadvantage": [
+                4.43,
+                4.3,
+                3.99,
+                3.46,
+                2.49
+            ]
+        }
+    },
+    {
+        "localized_name": "Techies",
+        "name": "npc_dota_hero_techies",
+        "id": 53,
+        "cat_wins": {
+            "L1": 49.57,
+            "L2": 48.51,
+            "L3": 47.16,
+            "L4": 47.4,
+            "L5": 46.32
+        },
+        "data": {
+            "best_vs": [
+                "Weaver",
+                "Meepo",
+                "Riki",
+                "Morphling",
+                "Dark Seer"
+            ],
+            "best_vs_advantage": [
+                3.77,
+                3.64,
+                2.83,
+                2.64,
+                2.47
+            ],
+            "worst_vs": [
+                "Wraith King",
+                "Spectre",
+                "Templar Assassin",
+                "Pudge",
+                "Oracle"
+            ],
+            "worst_vs_disadvantage": [
+                3.18,
+                2.78,
+                2.65,
+                2.24,
+                2.24
+            ]
+        }
+    },
+    {
+        "localized_name": "Storm Spirit",
+        "name": "npc_dota_hero_storm_spirit",
+        "id": 54,
+        "cat_wins": {
+            "L1": 44.31,
+            "L2": 45.47,
+            "L3": 46.7,
+            "L4": 47.89,
+            "L5": 49.24
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Sniper",
+                "Tinker",
+                "Bloodseeker",
+                "Monkey King"
+            ],
+            "best_vs_advantage": [
+                4.7,
+                4.03,
+                3.29,
+                3.09,
+                3.05
+            ],
+            "worst_vs": [
+                "Anti-Mage",
+                "Lone Druid",
+                "Silencer",
+                "Meepo",
+                "Templar Assassin"
+            ],
+            "worst_vs_disadvantage": [
+                5.22,
+                3.05,
+                2.48,
+                2.38,
+                2.18
+            ]
+        }
+    },
+    {
+        "localized_name": "Alchemist",
+        "name": "npc_dota_hero_alchemist",
+        "id": 55,
+        "cat_wins": {
+            "L1": 51.85,
+            "L2": 52.8,
+            "L3": 53.14,
+            "L4": 52.6,
+            "L5": 49.67
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Puck",
+                "Spectre",
+                "Phantom Lancer",
+                "Silencer"
+            ],
+            "best_vs_advantage": [
+                4.85,
+                3.55,
+                3.2,
+                2.97,
+                2.23
+            ],
+            "worst_vs": [
+                "Huskar",
+                "Monkey King",
+                "Razor",
+                "Morphling",
+                "Ancient Apparition"
+            ],
+            "worst_vs_disadvantage": [
+                5.74,
+                5.41,
+                3.67,
+                3.35,
+                2.79
+            ]
+        }
+    },
+    {
+        "localized_name": "Kunkka",
+        "name": "npc_dota_hero_kunkka",
+        "id": 56,
+        "cat_wins": {
+            "L1": 46.16,
+            "L2": 45.66,
+            "L3": 47.07,
+            "L4": 45.71,
+            "L5": 46.23
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Meepo",
+                "Lycan",
+                "Beastmaster",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                10.67,
+                4.1,
+                3.55,
+                3.53,
+                3.06
+            ],
+            "worst_vs": [
+                "Batrider",
+                "Pangolier",
+                "Lifestealer",
+                "Juggernaut",
+                "Outworld Devourer"
+            ],
+            "worst_vs_disadvantage": [
+                1.89,
+                1.87,
+                1.82,
+                1.82,
+                1.77
+            ]
+        }
+    },
+    {
+        "localized_name": "Luna",
+        "name": "npc_dota_hero_luna",
+        "id": 57,
+        "cat_wins": {
+            "L1": 52.6,
+            "L2": 52.73,
+            "L3": 52.27,
+            "L4": 52.22,
+            "L5": 52.13
+        },
+        "data": {
+            "best_vs": [
+                "Slardar",
+                "Leshrac",
+                "Death Prophet",
+                "Clinkz",
+                "Omniknight"
+            ],
+            "best_vs_advantage": [
+                2.45,
+                2.27,
+                1.95,
+                1.81,
+                1.81
+            ],
+            "worst_vs": [
+                "Spectre",
+                "Clockwerk",
+                "Shadow Demon",
+                "Viper",
+                "Chen"
+            ],
+            "worst_vs_disadvantage": [
+                3.42,
+                3.06,
+                3.04,
+                2.56,
+                2.47
+            ]
+        }
+    },
+    {
+        "localized_name": "Void Spirit",
+        "name": "npc_dota_hero_void_spirit",
+        "id": 58,
+        "cat_wins": {
+            "L1": 48.42,
+            "L2": 49.49,
+            "L3": 50.42,
+            "L4": 50.76,
+            "L5": 49.71
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Invoker",
+                "Shadow Demon",
+                "Clockwerk",
+                "Outworld Devourer"
+            ],
+            "best_vs_advantage": [
+                5.61,
+                3.77,
+                2.4,
+                1.83,
+                1.57
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Huskar",
+                "Night Stalker",
+                "Templar Assassin",
+                "Techies"
+            ],
+            "worst_vs_disadvantage": [
+                3.14,
+                2.83,
+                2.46,
+                2.24,
+                2.05
+            ]
+        }
+    },
+    {
+        "localized_name": "Spectre",
+        "name": "npc_dota_hero_spectre",
+        "id": 59,
+        "cat_wins": {
+            "L1": 51.97,
+            "L2": 49.47,
+            "L3": 49.53,
+            "L4": 48.9,
+            "L5": 47.13
+        },
+        "data": {
+            "best_vs": [
+                "Sniper",
+                "Tinker",
+                "Enigma",
+                "Luna",
+                "Techies"
+            ],
+            "best_vs_advantage": [
+                4.27,
+                3.83,
+                3.52,
+                3.39,
+                2.87
+            ],
+            "worst_vs": [
+                "Chen",
+                "Anti-Mage",
+                "Undying",
+                "Alchemist",
+                "Dazzle"
+            ],
+            "worst_vs_disadvantage": [
+                4.15,
+                4.02,
+                3.89,
+                3.28,
+                3.15
+            ]
+        }
+    },
+    {
+        "localized_name": "Vengeful Spirit",
+        "name": "npc_dota_hero_vengeful_spirit",
+        "id": 60,
+        "cat_wins": {
+            "L1": 55.08,
+            "L2": 54.19,
+            "L3": 53.94,
+            "L4": 54.34,
+            "L5": 51.43
+        },
+        "data": {
+            "best_vs": [
+                "Death Prophet",
+                "Lycan",
+                "Bane",
+                "Night Stalker",
+                "Oracle"
+            ],
+            "best_vs_advantage": [
+                1.97,
+                1.63,
+                1.49,
+                1.45,
+                1.26
+            ],
+            "worst_vs": [
+                "Phantom Lancer",
+                "Leshrac",
+                "Terrorblade",
+                "Tiny",
+                "Shadow Demon"
+            ],
+            "worst_vs_disadvantage": [
+                3.23,
+                2.95,
+                2.55,
+                2.44,
+                2.41
+            ]
+        }
+    },
+    {
+        "localized_name": "Mars",
+        "name": "npc_dota_hero_mars",
+        "id": 61,
+        "cat_wins": {
+            "L1": 49.16,
+            "L2": 50.02,
+            "L3": 49.78,
+            "L4": 49.47,
+            "L5": 48.81
+        },
+        "data": {
+            "best_vs": [
+                "Sniper",
+                "Windranger",
+                "Medusa",
+                "Broodmother",
+                "Drow Ranger"
+            ],
+            "best_vs_advantage": [
+                2.55,
+                2.47,
+                2.21,
+                2.09,
+                1.98
+            ],
+            "worst_vs": [
+                "Chen",
+                "Lone Druid",
+                "Riki",
+                "Tinker",
+                "Phantom Lancer"
+            ],
+            "worst_vs_disadvantage": [
+                3.5,
+                3.01,
+                2.96,
+                2.76,
+                2.6
+            ]
+        }
+    },
+    {
+        "localized_name": "Ember Spirit",
+        "name": "npc_dota_hero_ember_spirit",
+        "id": 62,
+        "cat_wins": {
+            "L1": 46.68,
+            "L2": 46.4,
+            "L3": 46.68,
+            "L4": 47.1,
+            "L5": 50.54
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Phantom Lancer",
+                "Templar Assassin",
+                "Naga Siren",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                4.86,
+                4.27,
+                3.19,
+                2.6,
+                2.45
+            ],
+            "worst_vs": [
+                "Huskar",
+                "Monkey King",
+                "Slark",
+                "Lifestealer",
+                "Techies"
+            ],
+            "worst_vs_disadvantage": [
+                5.23,
+                2.35,
+                2.25,
+                2.17,
+                2.11
+            ]
+        }
+    },
+    {
+        "localized_name": "Ancient Apparition",
+        "name": "npc_dota_hero_ancient_apparition",
+        "id": 63,
+        "cat_wins": {
+            "L1": 50.75,
+            "L2": 51.58,
+            "L3": 50.35,
+            "L4": 49.81,
+            "L5": 48.61
+        },
+        "data": {
+            "best_vs": [
+                "Huskar",
+                "Morphling",
+                "Io",
+                "Alchemist",
+                "Necrophos"
+            ],
+            "best_vs_advantage": [
+                8.51,
+                3.79,
+                2.94,
+                2.79,
+                2.52
+            ],
+            "worst_vs": [
+                "Lycan",
+                "Phantom Lancer",
+                "Broodmother",
+                "Beastmaster",
+                "Anti-Mage"
+            ],
+            "worst_vs_disadvantage": [
+                4.88,
+                3.48,
+                3.28,
+                2.93,
+                2.89
+            ]
+        }
+    },
+    {
+        "localized_name": "Underlord",
+        "name": "npc_dota_hero_underlord",
+        "id": 64,
+        "cat_wins": {
+            "L1": 56.4,
+            "L2": 57.21,
+            "L3": 55.3,
+            "L4": 53.61,
+            "L5": 50.48
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Phantom Lancer",
+                "Wraith King",
+                "Dragon Knight"
+            ],
+            "best_vs_advantage": [
+                5.68,
+                5.04,
+                4.15,
+                3.48,
+                2.92
+            ],
+            "worst_vs": [
+                "Juggernaut",
+                "Ursa",
+                "Sniper",
+                "Batrider",
+                "Broodmother"
+            ],
+            "worst_vs_disadvantage": [
+                3.8,
+                3.55,
+                3.16,
+                3.15,
+                3.04
+            ]
+        }
+    },
+    {
+        "localized_name": "Keeper of the Light",
+        "name": "npc_dota_hero_keeper_of_the_light",
+        "id": 65,
+        "cat_wins": {
+            "L1": 50.08,
+            "L2": 50.62,
+            "L3": 51.05,
+            "L4": 51.73,
+            "L5": 53.14
+        },
+        "data": {
+            "best_vs": [
+                "Troll Warlord",
+                "Lone Druid",
+                "Phantom Lancer",
+                "Naga Siren",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                2.28,
+                2.24,
+                2.19,
+                2.15,
+                2.13
+            ],
+            "worst_vs": [
+                "Bane",
+                "Batrider",
+                "Juggernaut",
+                "Doom",
+                "Queen of Pain"
+            ],
+            "worst_vs_disadvantage": [
+                2.18,
+                2.11,
+                2.08,
+                2.05,
+                2.02
+            ]
+        }
+    },
+    {
+        "localized_name": "Chen",
+        "name": "npc_dota_hero_chen",
+        "id": 66,
+        "cat_wins": {
+            "L1": 48.33,
+            "L2": 50.29,
+            "L3": 52.05,
+            "L4": 52.66,
+            "L5": 53.55
+        },
+        "data": {
+            "best_vs": [
+                "Spectre",
+                "Zeus",
+                "Lone Druid",
+                "Mars",
+                "Clockwerk"
+            ],
+            "best_vs_advantage": [
+                4.08,
+                3.89,
+                3.84,
+                3.71,
+                3.37
+            ],
+            "worst_vs": [
+                "Leshrac",
+                "Batrider",
+                "Omniknight",
+                "Undying",
+                "Huskar"
+            ],
+            "worst_vs_disadvantage": [
+                4.73,
+                3.90,
+                3.73,
+                3.59,
+                2.94
+            ]
+        }
+    },
+    {
+        "localized_name": "Visage",
+        "name": "npc_dota_hero_visage",
+        "id": 67,
+        "cat_wins": {
+            "L1": 48.43,
+            "L2": 51.96,
+            "L3": 52.36,
+            "L4": 56.66,
+            "L5": 54.90
+        },
+        "data": {
+            "best_vs": [
+                "Death Prophet",
+                "Zeus",
+                "Necrophos",
+                "Lone Druid",
+                "Pugna"
+            ],
+            "best_vs_advantage": [
+                5.66,
+                5.14,
+                4.96,
+                4.36,
+                4.28
+            ],
+            "worst_vs": [
+                "Weaver",
+                "Broodmother",
+                "Dark Seer",
+                "Bristleback",
+                "Medusa"
+            ],
+            "worst_vs_disadvantage": [
+                6.03,
+                4.41,
+                4.30,
+                4.28,
+                4.11
+            ]
+        }
+    },
+    {
+        "localized_name": "Brewmaster",
+        "name": "npc_dota_hero_brewmaster",
+        "id": 68,
+        "cat_wins": {
+            "L1": 48.24,
+            "L2": 49.33,
+            "L3": 50.55,
+            "L4": 47.81,
+            "L5": 47.88
+        },
+        "data": {
+            "best_vs": [
+                "Clinkz",
+                "Outworld Devourer",
+                "Ursa",
+                "Zeus",
+                "Razor"
+            ],
+            "best_vs_advantage": [
+                3.83,
+                3.27,
+                2.60,
+                2.35,
+                2.11
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Weaver",
+                "Dark Seer",
+                "Enchantress",
+                "Night Stalker"
+            ],
+            "worst_vs_disadvantage": [
+                5.66,
+                4.32,
+                3.52,
+                2.58,
+                2.36
+            ]
+        }
+    },
+    {
+        "localized_name": "Elder Titan",
+        "name": "npc_dota_hero_elder_titan",
+        "id": 69,
+        "cat_wins": {
+            "L1": 48.07,
+            "L2": 48.58,
+            "L3": 50.28,
+            "L4": 51.62,
+            "L5": 49.61
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Broodmother",
+                "Leshrac",
+                "Magnus",
+                "Phantom Lancer"
+            ],
+            "best_vs_advantage": [
+                13.65,
+                5.62,
+                5.08,
+                4.17,
+                3.48
+            ],
+            "worst_vs": [
+                "Enchantress",
+                "Huskar",
+                "Doom",
+                "Templar Assassin",
+                "Phantom Assassin"
+            ],
+            "worst_vs_disadvantage": [
+                4.82,
+                2.82,
+                2.16,
+                2.16,
+                2.13
+            ]
+        }
+    },
+    {
+        "localized_name": "Arc Warden",
+        "name": "npc_dota_hero_arc_warden",
+        "id": 70,
+        "cat_wins": {
+            "L1": 45.03,
+            "L2": 46.90,
+            "L3": 45.44,
+            "L4": 47.12,
+            "L5": 44.76
+        },
+        "data": {
+            "best_vs": [
+                "Venomancer",
+                "Clinkz",
+                "Silencer",
+                "Outworld Devourer",
+                "Templar Assassin"
+            ],
+            "best_vs_advantage": [
+                4.10,
+                4.09,
+                3.56,
+                3.54,
+                3.54
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Lycan",
+                "Meepo",
+                "Chaos Knight",
+                "Bristleback"
+            ],
+            "worst_vs_disadvantage": [
+                9.90,
+                4.77,
+                4.61,
+                3.76,
+                3.39
+            ]
+        }
+    },
+    {
+        "localized_name": "Batrider",
+        "name": "npc_dota_hero_batrider",
+        "id": 71,
+        "cat_wins": {
+            "L1": 44.22,
+            "L2": 45.48,
+            "L3": 45.13,
+            "L4": 48.75,
+            "L5": 49.83
+        },
+        "data": {
+            "best_vs": [
+                "Templar Assassin",
+                "Meepo",
+                "Terrorblade",
+                "Chen",
+                "Lone Druid"
+            ],
+            "best_vs_advantage": [
+                6.86,
+                4.02,
+                3.67,
+                3.49,
+                2.93
+            ],
+            "worst_vs": [
+                "Visage",
+                "Abaddon",
+                "Enchantress",
+                "Weaver",
+                "Tidehunter"
+            ],
+            "worst_vs_disadvantage": [
+                3.39,
+                3.09,
+                3.07,
+                3.05,
+                2.69
+            ]
+        }
+    },
+    {
+        "localized_name": "Beastmaster",
+        "name": "npc_dota_hero_beastmaster",
+        "id": 72,
+        "cat_wins": {
+            "L1": 49.38,
+            "L2": 53.33,
+            "L3": 54.13,
+            "L4": 55.47,
+            "L5": 56.06
+        },
+        "data": {
+            "best_vs": [
+                "Ancient Apparation",
+                "Ursa",
+                "Anti-Mage",
+                "Clockwerk",
+                "Night Stalker"
+            ],
+            "best_vs_advantage": [
+                3.31,
+                3.26,
+                2.77,
+                2.73,
+                2.43
+            ],
+            "worst_vs": [
+                "Winter Wyvern",
+                "Sniper",
+                "Chaos Knight",
+                "Jakiro",
+                "Sand King"
+            ],
+            "worst_vs_disadvantage": [
+                4.12,
+                4.05,
+                3.90,
+                3.78,
+                3.49
+            ]
+        }
+    },
+    {
+        "localized_name": "Leshrac",
+        "name": "npc_dota_hero_leshrac",
+        "id": 73,
+        "cat_wins": {
+            "L1": 41.98,
+            "L2": 42.82,
+            "L3": 46.07,
+            "L4": 46.52,
+            "L5": 49.29
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Chen",
+                "Phantom Lancer",
+                "Dark Seer"
+            ],
+            "best_vs_advantage": [
+                7.57,
+                5.56,
+                4.73,
+                4.66,
+                3.70
+            ],
+            "worst_vs": [
+                "Elder Titan",
+                "Clinkz",
+                "Luna",
+                "Razor",
+                "Drow Ranger"
+            ],
+            "worst_vs_disadvantage": [
+                4.89,
+                2.96,
+                2.66,
+                2.47,
+                2.45
+            ]
+        }
+    },
+    {
+        "localized_name": "Shadow Demon",
+        "name": "npc_dota_hero_shadow_demon",
+        "id": 74,
+        "cat_wins": {
+            "L1": 44.76,
+            "L2": 45.98,
+            "L3": 47.68,
+            "L4": 48.10,
+            "L5": 49.82
+        },
+        "data": {
+            "best_vs": [
+                "Oracle",
+                "Skywrath Mage",
+                "Luna",
+                "Nature's Prophet",
+                "Grimstoke"
+            ],
+            "best_vs_advantage": [
+                3.16,
+                2.96,
+                2.87,
+                2.50,
+                2.39
+            ],
+            "worst_vs": [
+                "Lone Druid",
+                "Earth Spirit",
+                "Phantom Lancer",
+                "Timbersaw",
+                "Enigma"
+            ],
+            "worst_vs_disadvantage": [
+                4.73,
+                3.67,
+                3.32,
+                3.16,
+                3.06
+            ]
+        }
+    },
+    {
+        "localized_name": "Oracle",
+        "name": "npc_dota_hero_oracle",
+        "id": 75,
+        "cat_wins": {
+            "L1": 44.37,
+            "L2": 45.60,
+            "L3": 46.75,
+            "L4": 47.85,
+            "L5": 47.95
+        },
+        "data": {
+            "best_vs": [
+                "Dark Seer",
+                "Sand King",
+                "Troll Warlord",
+                "Magnus",
+                "Lone Druid"
+            ],
+            "best_vs_advantage": [
+                3.38,
+                3.05,
+                3.02,
+                2.83,
+                2.34
+            ],
+            "worst_vs": [
+                "Night Stalker",
+                "Shadow Demon",
+                "Lycan",
+                "Death Prophet",
+                "Chaos Knight"
+            ],
+            "worst_vs_disadvantage": [
+                3.33,
+                3.16,
+                2.85,
+                2.64,
+                2.35
+            ]
+        }
+    },
+    {
+        "localized_name": "Dark Seer",
+        "name": "npc_dota_hero_dark_seer",
+        "id": 76,
+        "cat_wins": {
+            "L1": 51.32,
+            "L2": 51.33,
+            "L3": 53.05,
+            "L4": 53.11,
+            "L5": 51.33
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Terrorblade",
+                "Broodmother",
+                "Templar Assassin",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                6.03,
+                5.75,
+                5.16,
+                4.42,
+                4.38
+            ],
+            "worst_vs": [
+                "Anti-Mage",
+                "Leshrac",
+                "Oracle",
+                "Lone Druid",
+                "Gyrocopter"
+            ],
+            "worst_vs_disadvantage": [
+                3.83,
+                3.71,
+                3.35,
+                3.19,
+                3.03
+            ]
+        }
+    },
+    {
+        "localized_name": "Broodmother",
+        "name": "npc_dota_hero_brood_mother",
+        "id": 77,
+        "cat_wins": {
+            "L1": 50.54,
+            "L2": 51.13,
+            "L3": 52.65,
+            "L4": 53.81,
+            "L5": 54.54
+        },
+        "data": {
+            "best_vs": [
+                "Arc Warden",
+                "Outworld Devourer",
+                "Zeus",
+                "Clockwerk",
+                "Tinker"
+            ],
+            "best_vs_advantage": [
+                9.84,
+                7.85,
+                6.51,
+                6.49,
+                6.15
+            ],
+            "worst_vs": [
+                "Kunka",
+                "Earthshaker",
+                "Meepo",
+                "Magnus",
+                "Sven"
+            ],
+            "worst_vs_disadvantage": [
+                11.24,
+                10.30,
+                9.41,
+                8.08,
+                7.89
+            ]
+        }
+    },
+    {
+        "localized_name": "Earth Spirit",
+        "name": "npc_dota_hero_earth_spirit",
+        "id": 78,
+        "cat_wins": {
+            "L1": 46.49,
+            "L2": 45.45,
+            "L3": 46.09,
+            "L4": 46.97,
+            "L5": 46.84
+        },
+        "data": {
+            "best_vs": [
+                "Shadow Demon",
+                "Beastmaster",
+                "Undying",
+                "Broodmother",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                3.55,
+                2.38,
+                2.06,
+                2.03,
+                1.87
+            ],
+            "worst_vs": [
+                "Death Prophet",
+                "Enchantress",
+                "Pugna",
+                "Elder Titan",
+                "Troll Warlord"
+            ],
+            "worst_vs_disadvantage": [
+                3.10,
+                2.85,
+                1.99,
+                1.88,
+                1.86
+            ]
+        }
+    },
+    {
+        "localized_name": "Omniknight",
+        "name": "npc_dota_hero_omniknight",
+        "id": 79,
+        "cat_wins": {
+            "L1": 47.48,
+            "L2": 49.39,
+            "L3": 49.20,
+            "L4": 48.92,
+            "L5": 48.39
+        },
+        "data": {
+            "best_vs": [
+                "Chen",
+                "Chaos Knight",
+                "Visage",
+                "Bounty Hunter",
+                "Magnus"
+            ],
+            "best_vs_advantage": [
+                3.81,
+                3.32,
+                3.21,
+                2.74,
+                2.43
+            ],
+            "worst_vs": [
+                "Outworld Devourer",
+                "Necrophos",
+                "Sand King",
+                "Sniper",
+                "Morphling"
+            ],
+            "worst_vs_disadvantage": [
+                4.21,
+                3.35,
+                3.15,
+                2.48,
+                2.34
+            ]
+        }
+    },
+    {
+        "localized_name": "Magnus",
+        "name": "npc_dota_hero_magnus",
+        "id": 80,
+        "cat_wins": {
+            "L1": 43.34,
+            "L2": 44.93,
+            "L3": 44.44,
+            "L4": 45.10,
+            "L5": 45.35
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Phantom Lancer",
+                "Arc Warden",
+                "Chaos Knight",
+                "Naga Siren"
+            ],
+            "best_vs_advantage": [
+                7.93,
+                3.57,
+                3.29,
+                3.23,
+                2.41
+            ],
+            "worst_vs": [
+                "Elder Titan",
+                "Huskar",
+                "Enchantress",
+                "Oracle",
+                "Ursa"
+            ],
+            "worst_vs_disadvantage": [
+                4.14,
+                3.58,
+                3.06,
+                2.85,
+                2.49
+            ]
+        }
+    },
+    {
+        "localized_name": "Doom",
+        "name": "npc_dota_hero_doom",
+        "id": 81,
+        "cat_wins": {
+            "L1": 42.97,
+            "L2": 44.50,
+            "L3": 43.65,
+            "L4": 43.56,
+            "L5": 43.65
+        },
+        "data": {
+            "best_vs": [
+                "Chen",
+                "Timbersaw",
+                "Elder Titan",
+                "Tinker",
+                "Omniknight"
+            ],
+            "best_vs_advantage": [
+                2.61,
+                2.42,
+                2.23,
+                1.92,
+                1.82
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Wraith King",
+                "Leshrac",
+                "Sniper",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                4.52,
+                2.67,
+                1.73,
+                1.73,
+                1.64
+            ]
+        }
+    },
+    {
+        "localized_name": "Enigma",
+        "name": "npc_dota_hero_enigma",
+        "id": 82,
+        "cat_wins": {
+            "L1": 49.75,
+            "L2": 49.27,
+            "L3": 50.25,
+            "L4": 50.48,
+            "L5": 52.79
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Lifestealer",
+                "Shadow Demon",
+                "Huskar"
+            ],
+            "best_vs_advantage": [
+                5.58,
+                4.89,
+                3.31,
+                3.18,
+                3.03
+            ],
+            "worst_vs": [
+                "Clinkz",
+                "Spectre",
+                "Medusa",
+                "Arc Warden",
+                "Rubick"
+            ],
+            "worst_vs_disadvantage": [
+                3.84,
+                3.75,
+                3.07,
+                2.67,
+                2.62
+            ]
+        }
+    },
+    {
+        "localized_name": "Lycan",
+        "name": "npc_dota_hero_lycan",
+        "id": 83,
+        "cat_wins": {
+            "L1": 51.21,
+            "L2": 53.63,
+            "L3": 54.92,
+            "L4": 58.59,
+            "L5": 60.21
+        },
+        "data": {
+            "best_vs": [
+                "Outworld Devourer",
+                "Ancient Apparation",
+                "Arc Warden",
+                "Clockwerk",
+                "Pudge"
+            ],
+            "best_vs_advantage": [
+                5.58,
+                5.11,
+                4.54,
+                4.37,
+                3.71
+            ],
+            "worst_vs": [
+                "Bristleback",
+                "Enchantress",
+                "Sven",
+                "Tidehunter",
+                "Winter Wyvern"
+            ],
+            "worst_vs_disadvantage": [
+                5.90,
+                5.72,
+                5.43,
+                4.65,
+                4.63
+            ]
+        }
+    },
+    {
+        "localized_name": "Lone Druid",
+        "name": "npc_dota_hero_lone_druid",
+        "id": 84,
+        "cat_wins": {
+            "L1": 51.30,
+            "L2": 52.48,
+            "L3": 54.03,
+            "L4": 52.77,
+            "L5": 53.92
+        },
+        "data": {
+            "best_vs": [
+                "Shadow Demon",
+                "Anti-Mage",
+                "Mars",
+                "Storm Spirit",
+                "Zeus"
+            ],
+            "best_vs_advantage": [
+                4.71,
+                4.49,
+                3.62,
+                3.59,
+                3.52
+            ],
+            "worst_vs": [
+                "Naga Siren",
+                "Broodmother",
+                "Huskar",
+                "Visage",
+                "Enchantress"
+            ],
+            "worst_vs_disadvantage": [
+                5.73,
+                5.61,
+                4.33,
+                4.27,
+                3.82
+            ]
+        }
+    },
+    {
+        "localized_name": "Io",
+        "name": "npc_dota_hero_io",
+        "id": 85,
+        "cat_wins": {
+            "L1": 44.81,
+            "L2": 44.01,
+            "L3": 44.63,
+            "L4": 46.76,
+            "L5": 47.74
+        },
+        "data": {
+            "best_vs": [
+                "Clinkz",
+                "Bane",
+                "Phoenix",
+                "Anti-Mage",
+                "Leshrac"
+            ],
+            "best_vs_advantage": [
+                3.43,
+                3.27,
+                3.20,
+                2.69,
+                2.39
+            ],
+            "worst_vs": [
+                "Ancient Apparition",
+                "Elder Titan",
+                "Batrider",
+                "Meepo",
+                "Broodmother"
+            ],
+            "worst_vs_disadvantage": [
+                3.63,
+                3.06,
+                2.67,
+                2.63,
+                2.37
+            ]
+        }
+    },
+    {
+        "localized_name": "Night Stalker",
+        "name": "npc_dota_hero_night_stalker",
+        "id": 86,
+        "cat_wins": {
+            "L1": 49.81,
+            "L2": 51.77,
+            "L3": 53.30,
+            "L4": 52.07,
+            "L5": 51.30
+        },
+        "data": {
+            "best_vs": [
+                "Oracle",
+                "Void Spirit",
+                "Storm Spirit",
+                "Brewmaster",
+                "Tidehunter"
+            ],
+            "best_vs_advantage": [
+                3.19,
+                2.58,
+                2.42,
+                2.11,
+                2.04
+            ],
+            "worst_vs": [
+                "Enchantress",
+                "Lycan",
+                "Naga Siren",
+                "Meepo",
+                "Visage"
+            ],
+            "worst_vs_disadvantage": [
+                3.42,
+                3.36,
+                3.33,
+                3.09,
+                2.95
+            ]
+        }
+    },
+    {
+        "localized_name": "Bane",
+        "name": "npc_dota_hero_bane",
+        "id": 87,
+        "cat_wins": {
+            "L1": 50.56,
+            "L2": 51.83,
+            "L3": 53.76,
+            "L4": 54.47,
+            "L5": 55.27
+        },
+        "data": {
+            "best_vs": [
+                "Outworld Devourer",
+                "Keeper of the Light",
+                "Leshrac",
+                "Morphling",
+                "Lifestealer"
+            ],
+            "best_vs_advantage": [
+                3.37,
+                2.34,
+                2.20,
+                2.00,
+                1.79
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Naga Siren",
+                "Chaos Knight",
+                "Lycan",
+                "Io"
+            ],
+            "worst_vs_disadvantage": [
+                5.56,
+                4.98,
+                3.89,
+                3.44,
+                3.33
+            ]
+        }
+    },
+    {
+        "localized_name": "Nyx Assassin",
+        "name": "npc_dota_hero_nyx_assassin",
+        "id": 88,
+        "cat_wins": {
+            "L1": 48.49,
+            "L2": 50.19,
+            "L3": 51.07,
+            "L4": 51.49,
+            "L5": 51.53
+        },
+        "data": {
+            "best_vs": [
+                "Medusa",
+                "Tinker",
+                "Timbersaw",
+                "Morphling",
+                "Omniknight"
+            ],
+            "best_vs_advantage": [
+                3.95,
+                2.95,
+                2.77,
+                2.51,
+                2.21
+            ],
+            "worst_vs": [
+                "Visage",
+                "Beastmaster",
+                "Io",
+                "Slardar",
+                "Night Stalker"
+            ],
+            "worst_vs_disadvantage": [
+                3.19,
+                2.17,
+                1.89,
+                1.86,
+                1.81
+            ]
+        }
+    },
+    {
+        "localized_name": "Terrorblade",
+        "name": "npc_dota_hero_terrorblade",
+        "id": 89,
+        "cat_wins": {
+            "L1": 47.73,
+            "L2": 48.44,
+            "L3": 48.88,
+            "L4": 48.09,
+            "L5": 49.53
+        },
+        "data": {
+            "best_vs": [
+                "Slardar",
+                "Templar Assassin",
+                "Death Prophet",
+                "Night Stalker",
+                "Shadow Shaman"
+            ],
+            "best_vs_advantage": [
+                4.24,
+                3.74,
+                3.52,
+                2.93,
+                2.75
+            ],
+            "worst_vs": [
+                "Dark Seer",
+                "Timbersaw",
+                "Sand King",
+                "Tinker",
+                "Phantom Lancer"
+            ],
+            "worst_vs_disadvantage": [
+                5.54,
+                5.13,
+                4.83,
+                3.96,
+                3.54
+            ]
+        }
+    },
+    {
+        "localized_name": "Puck",
+        "name": "npc_dota_hero_puck",
+        "id": 90,
+        "cat_wins": {
+            "L1": 45.82,
+            "L2": 46.14,
+            "L3": 47.27,
+            "L4": 48.19,
+            "L5": 47.73
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Queen of Pain",
+                "Outworld Devourer",
+                "Morphling",
+                "Slark"
+            ],
+            "best_vs_advantage": [
+                4.97,
+                4.33,
+                3.24,
+                2.97,
+                2.41
+            ],
+            "worst_vs": [
+                "Templar Assassin",
+                "Alchemist",
+                "Clinkz",
+                "Dragon Knight",
+                "Medusa"
+            ],
+            "worst_vs_disadvantage": [
+                4.41,
+                3.92,
+                3.02,
+                2.99,
+                2.68
+            ]
+        }
+    },
+    {
+        "localized_name": "Outworld Devourer",
+        "name": "npc_dota_hero_outworld_devourer",
+        "id": 91,
+        "cat_wins": {
+            "L1": 43.10,
+            "L2": 44.32,
+            "L3": 46.02,
+            "L4": 46.21,
+            "L5": 45.80
+        },
+        "data": {
+            "best_vs": [
+                "Morphling",
+                "Meepo",
+                "Troll Warlord",
+                "Omniknight",
+                "Timbersaw"
+            ],
+            "best_vs_advantage": [
+                5.69,
+                4.98,
+                4.86,
+                4.09,
+                4.04
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Queen of Pain",
+                "Lycan",
+                "Medusa",
+                "Zeus"
+            ],
+            "worst_vs_disadvantage": [
+                7.60,
+                5.93,
+                5.45,
+                4.26,
+                4.08
+            ]
+        }
+    },
+    {
+        "localized_name": "Enchantress",
+        "name": "npc_dota_hero_enchantress",
+        "id": 92,
+        "cat_wins": {
+            "L1": 44.48,
+            "L2": 46.31,
+            "L3": 45.02,
+            "L4": 45.47,
+            "L5": 46.53
+        },
+        "data": {
+            "best_vs": [
+                "Lycan",
+                "Elder Titan",
+                "Lone Druid",
+                "Venomancer",
+                "Clinkz"
+            ],
+            "best_vs_advantage": [
+                5.79,
+                4.68,
+                3.70,
+                3.58,
+                3.54
+            ],
+            "worst_vs": [
+                "Naga Siren",
+                "Bristleback",
+                "Phantom Lancer",
+                "Pugna",
+                "Crystal Maiden"
+            ],
+            "worst_vs_disadvantage": [
+                4.11,
+                2.91,
+                2.86,
+                2.40,
+                1.76
+            ]
+        }
+    },
+    {
+        "localized_name": "Gyrocopter",
+        "name": "npc_dota_hero_gyrocopter",
+        "id": 93,
+        "cat_wins": {
+            "L1": 45.69,
+            "L2": 45.83,
+            "L3": 46.66,
+            "L4": 45.18,
+            "L5": 45.68
+        },
+        "data": {
+            "best_vs": [
+                "Naga Siren",
+                "Dark Seer",
+                "Lone Druid",
+                "Broodmother",
+                "Troll Warlord"
+            ],
+            "best_vs_advantage": [
+                4.15,
+                3.16,
+                2.69,
+                2.50,
+                2.47
+            ],
+            "worst_vs": [
+                "Chen",
+                "Underlord",
+                "Elder Titan",
+                "Arc Warden",
+                "Life Stealer"
+            ],
+            "worst_vs_disadvantage": [
+                3.01,
+                2.86,
+                2.75,
+                2.70,
+                2.34
+            ]
+        }
+    },
+    {
+        "localized_name": "Clinkz",
+        "name": "npc_dota_hero_clinkz",
+        "id": 94,
+        "cat_wins": {
+            "L1": 45.43,
+            "L2": 47.51,
+            "L3": 48.37,
+            "L4": 48.11,
+            "L5": 47.23
+        },
+        "data": {
+            "best_vs": [
+                "Enigma",
+                "Death Prophet",
+                "Pangolier",
+                "Puck",
+                "Leshrac"
+            ],
+            "best_vs_advantage": [
+                3.85,
+                3.42,
+                3.20,
+                3.07,
+                2.88
+            ],
+            "worst_vs": [
+                "Naga Siren",
+                "Phantom Lancer",
+                "Bounty Hunter",
+                "Brewmaster",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                7.34,
+                4.37,
+                4.36,
+                3.84,
+                3.79
+            ]
+        }
+    },
+    {
+        "localized_name": "Tusk",
+        "name": "npc_dota_hero_tusk",
+        "id": 95,
+        "cat_wins": {
+            "L1": 46.30,
+            "L2": 47.33,
+            "L3": 48.72,
+            "L4": 49.54,
+            "L5": 49.71
+        },
+        "data": {
+            "best_vs": [
+                "Chen",
+                "Legion Commander",
+                "Tinker",
+                "Abaddon",
+                "Drow Ranger"
+            ],
+            "best_vs_advantage": [
+                1.83,
+                1.82,
+                1.77,
+                1.54,
+                1.52
+            ],
+            "worst_vs": [
+                "Visage",
+                "Lich",
+                "Magnus",
+                "Templar Assassin",
+                "Lycan"
+            ],
+            "worst_vs_disadvantage": [
+                2.21,
+                1.97,
+                1.90,
+                1.83,
+                1.83
+            ]
+        }
+    },
+    {
+        "localized_name": "Sand King",
+        "name": "npc_dota_hero_sand_king",
+        "id": 96,
+        "cat_wins": {
+            "L1": 50.37,
+            "L2": 49.05,
+            "L3": 48.72,
+            "L4": 49.09,
+            "L5": 47.85
+        },
+        "data": {
+            "best_vs": [
+                "Naga Siren",
+                "Phantom Lancer",
+                "Meepo",
+                "Terrorblade",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                6.49,
+                5.97,
+                4.86,
+                4.78,
+                3.50
+            ],
+            "worst_vs": [
+                "Oracle",
+                "Zeus",
+                "Chen",
+                "Anti-Mage",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                3.10,
+                2.49,
+                2.36,
+                2.22,
+                2.01
+            ]
+        }
+    },
+    {
+        "localized_name": "Pangolier",
+        "name": "npc_dota_hero_pangolier",
+        "id": 97,
+        "cat_wins": {
+            "L1": 45.51,
+            "L2": 47.62,
+            "L3": 47.23,
+            "L4": 47.88,
+            "L5": 49.30
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Broodmother",
+                "Naga Siren",
+                "Phantom Lancer",
+                "Legion Commander"
+            ],
+            "best_vs_advantage": [
+                5.93,
+                4.46,
+                2.93,
+                2.86,
+                2.70
+            ],
+            "worst_vs": [
+                "Clinkz",
+                "Bloodseeker",
+                "Skywrath Mage",
+                "Riki",
+                "Ember Spirit"
+            ],
+            "worst_vs_disadvantage": [
+                3.11,
+                2.46,
+                1.96,
+                1.83,
+                1.65
+            ]
+        }
+    },
+    {
+        "localized_name": "Naga Siren",
+        "name": "npc_dota_hero_naga_siren",
+        "id": 98,
+        "cat_wins": {
+            "L1": 54.88,
+            "L2": 50.86,
+            "L3": 52.66,
+            "L4": 51.39,
+            "L5": 52.87
+        },
+        "data": {
+            "best_vs": [
+                "Clinkz",
+                "Broodmother",
+                "Chaos Knight",
+                "Lone Druid",
+                "Bounty Hunter"
+            ],
+            "best_vs_advantage": [
+                7.01,
+                6.39,
+                5.99,
+                5.83,
+                5.24
+            ],
+            "worst_vs": [
+                "Sand King",
+                "Jakiro",
+                "Leshrac",
+                "Timbersaw",
+                "Underlord"
+            ],
+            "worst_vs_disadvantage": [
+                6.54,
+                5.78,
+                5.78,
+                5.33,
+                5.07
+            ]
+        }
+    },
+    {
+        "localized_name": "Death Prophet",
+        "name": "npc_dota_hero_death_prophet",
+        "id": 99,
+        "cat_wins": {
+            "L1": 48.36,
+            "L2": 50.17,
+            "L3": 51.71,
+            "L4": 52.93,
+            "L5": 53.39
+        },
+        "data": {
+            "best_vs": [
+                "Huskar",
+                "Timbersaw",
+                "Necrophos",
+                "Earth Spirit",
+                "Centaur Warrunner"
+            ],
+            "best_vs_advantage": [
+                4.78,
+                4.24,
+                2.97,
+                2.88,
+                2.82
+            ],
+            "worst_vs": [
+                "Visage",
+                "Broodmother",
+                "Medusa",
+                "Anti-Mage",
+                "Terrorblade"
+            ],
+            "worst_vs_disadvantage": [
+                4.90,
+                4.43,
+                3.99,
+                3.59,
+                3.51
+            ]
+        }
+    },
+    {
+        "localized_name": "Treant Protector",
+        "name": "npc_dota_hero_treant_protector",
+        "id": 100,
+        "cat_wins": {
+            "L1": 50.14,
+            "L2": 49.25,
+            "L3": 49.87,
+            "L4": 49.55,
+            "L5": 48.99
+        },
+        "data": {
+            "best_vs": [
+                "Lone Druid",
+                "Templar Assassin",
+                "Lycan",
+                "Terrorblade",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                3.04,
+                2.49,
+                2.25,
+                1.96,
+                1.94
+            ],
+            "worst_vs": [
+                "Phoenix",
+                "Enigma",
+                "Pugna",
+                "Morphling",
+                "Juggernaut"
+            ],
+            "worst_vs_disadvantage": [
+                2.62,
+                2.52,
+                2.41,
+                2.28,
+                1.99
+            ]
+        }
+    },
+    {
+        "localized_name": "Undying",
+        "name": "npc_dota_hero_undying",
+        "id": 101,
+        "cat_wins": {
+            "L1": 50.92,
+            "L2": 49.95,
+            "L3": 50.75,
+            "L4": 50.74,
+            "L5": 50.19
+        },
+        "data": {
+            "best_vs": [
+                "Spectre",
+                "Lycan",
+                "Chen",
+                "Visage",
+                "Wraith King"
+            ],
+            "best_vs_advantage": [
+                3.82,
+                3.63,
+                3.37,
+                3.03,
+                3.03
+            ],
+            "worst_vs": [
+                "Medusa",
+                "Meepo",
+                "Ancient Apparition",
+                "Earth Spirit",
+                "Timbersaw"
+            ],
+            "worst_vs_disadvantage": [
+                4.97,
+                2.41,
+                2.17,
+                2.14,
+                2.07
+            ]
+        }
+    },
+    {
+        "localized_name": "Winter Wyvern",
+        "name": "npc_dota_hero_winter_wyvern",
+        "id": 102,
+        "cat_wins": {
+            "L1": 47.73,
+            "L2": 48.71,
+            "L3": 49.32,
+            "L4": 50.27,
+            "L5": 50.18
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Lycan",
+                "Beastmaster",
+                "Lone Druid",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                8.63,
+                4.58,
+                4.17,
+                3.37,
+                2.56
+            ],
+            "worst_vs": [
+                "Timbersaw",
+                "Venomancer",
+                "Huskar",
+                "Pugna",
+                "Anti-Mage"
+            ],
+            "worst_vs_disadvantage": [
+                3.40,
+                3.13,
+                2.59,
+                1.88,
+                1.82
+            ]
+        }
+    },
+    {
+        "localized_name": "Abaddon",
+        "name": "npc_dota_hero_abaddon",
+        "id": 103,
+        "cat_wins": {
+            "L1": 51.28,
+            "L2": 52.05,
+            "L3": 51.85,
+            "L4": 50.08,
+            "L5": 48.73
+        },
+        "data": {
+            "best_vs": [
+                "Batrider",
+                "Silencer",
+                "Chen",
+                "Magnus",
+                "Bane"
+            ],
+            "best_vs_advantage": [
+                2.86,
+                2.58,
+                2.46,
+                2.36,
+                2.21
+            ],
+            "worst_vs": [
+                "Dark Seer",
+                "Slark",
+                "Razor",
+                "Meepo",
+                "Outworld Devourer"
+            ],
+            "worst_vs_disadvantage": [
+                4.10,
+                3.65,
+                2.78,
+                2.60,
+                2.46
+            ]
+        }
+    },
+    {
+        "localized_name": "Phoenix",
+        "name": "npc_dota_hero_phoenix",
+        "id": 104,
+        "cat_wins": {
+            "L1": 51.52,
+            "L2": 52.40,
+            "L3": 52.38,
+            "L4": 52.28,
+            "L5": 53.90
+        },
+        "data": {
+            "best_vs": [
+                "Lycan",
+                "Naga Siren",
+                "Treant Protector",
+                "Wraith King",
+                "Chaos Knight"
+            ],
+            "best_vs_advantage": [
+                3.60,
+                3.57,
+                2.60,
+                2.33,
+                2.03
+            ],
+            "worst_vs": [
+                "Io",
+                "Lifestealer",
+                "Juggernaut",
+                "Chen",
+                "Huskar"
+            ],
+            "worst_vs_disadvantage": [
+                3.29,
+                2.97,
+                2.48,
+                2.45,
+                2.34
+            ]
+        }
+    },
+    {
+        "localized_name": "Tiny",
+        "name": "npc_dota_hero_tiny",
+        "id": 105,
+        "cat_wins": {
+            "L1": 43.64,
+            "L2": 42.73,
+            "L3": 42.97,
+            "L4": 43.67,
+            "L5": 45.93
+        },
+        "data": {
+            "best_vs": [
+                "Broodmother",
+                "Vengeful Spirit",
+                "Chen",
+                "Morphling",
+                "Chaos Knight"
+            ],
+            "best_vs_advantage": [
+                4.79,
+                2.43,
+                2.40,
+                2.25,
+                2.03
+            ],
+            "worst_vs": [
+                "Enigma",
+                "Doom",
+                "Necrophos",
+                "Lifestealer",
+                "Huskar"
+            ],
+            "worst_vs_disadvantage": [
+                2.60,
+                1.92,
+                1.92,
+                1.80,
+                1.75
+            ]
+        }
+    },
+    {
+        "localized_name": "Tidehunter",
+        "name": "npc_dota_hero_tidehunter",
+        "id": 106,
+        "cat_wins": {
+            "L1": 49.78,
+            "L2": 50.94,
+            "L3": 50.99,
+            "L4": 50.02,
+            "L5": 49.89
+        },
+        "data": {
+            "best_vs": [
+                "Lycan",
+                "Broodmother",
+                "Phantom Lancer",
+                "Visage",
+                "Beastmaster"
+            ],
+            "best_vs_advantage": [
+                4.69,
+                4.45,
+                3.72,
+                3.19,
+                3.17
+            ],
+            "worst_vs": [
+                "Juggernaut",
+                "Slark",
+                "Outworld Devourer",
+                "Razor",
+                "Underlord"
+            ],
+            "worst_vs_disadvantage": [
+                3.43,
+                2.81,
+                2.57,
+                2.45,
+                2.04
+            ]
+        }
+    },
+    {
+        "localized_name": "Centaur Warrunner",
+        "name": "npc_dota_hero_centaur_warrunner",
+        "id": 107,
+        "cat_wins": {
+            "L1": 49.85,
+            "L2": 50.15,
+            "L3": 50.37,
+            "L4": 51.04,
+            "L5": 49.72
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Naga Siren",
+                "Sniper",
+                "Anti-Mage",
+                "Visage"
+            ],
+            "best_vs_advantage": [
+                2.80,
+                2.76,
+                2.29,
+                2.23,
+                2.21
+            ],
+            "worst_vs": [
+                "Death Prophet",
+                "Bloodseeker",
+                "Dazzle",
+                "Lycan",
+                "Monkey King"
+            ],
+            "worst_vs_disadvantage": [
+                2.74,
+                2.50,
+                2.38,
+                2.26,
+                2.15
+            ]
+        }
+    },
+    {
+        "localized_name": "Dark Willow",
+        "name": "npc_dota_hero_dark_willow",
+        "id": 108,
+        "cat_wins": {
+            "L1": 50.53,
+            "L2": 50.44,
+            "L3": 51.19,
+            "L4": 51.88,
+            "L5": 52.07
+        },
+        "data": {
+            "best_vs": [
+                "Dark Seer",
+                "Lone Druid",
+                "Clockwerk",
+                "Vengeful Spirit",
+                "Spirit Breaker"
+            ],
+            "best_vs_advantage": [
+                2.71,
+                1.91,
+                1.65,
+                1.53,
+                1.42
+            ],
+            "worst_vs": [
+                "Arc Warden",
+                "Clinkz",
+                "Naga Siren",
+                "Nature's Prophet",
+                "Pugna"
+            ],
+            "worst_vs_disadvantage": [
+                2.40,
+                2.25,
+                2.19,
+                2.17,
+                2.15
+            ]
+        }
+    },
+    {
+        "localized_name": "Warlock",
+        "name": "npc_dota_hero_warlock",
+        "id": 109,
+        "cat_wins": {
+            "L1": 51.32,
+            "L2": 52.13,
+            "L3": 51.82,
+            "L4": 49.80,
+            "L5": 50.25
+        },
+        "data": {
+            "best_vs": [
+                "Meepo",
+                "Spectre",
+                "Terrorblade",
+                "Lone Druid",
+                "Chaos Knight"
+            ],
+            "best_vs_advantage": [
+                4.71,
+                2.70,
+                2.66,
+                2.45,
+                2.27
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Clinkz",
+                "Huskar",
+                "Chen",
+                "Bounty Hunter"
+            ],
+            "worst_vs_disadvantage": [
+                2.94,
+                2.31,
+                2.27,
+                1.96,
+                1.84
+            ]
+        }
+    },
+    {
+        "localized_name": "Razor",
+        "name": "npc_dota_hero_razor",
+        "id": 110,
+        "cat_wins": {
+            "L1": 50.71,
+            "L2": 52.50,
+            "L3": 52.50,
+            "L4": 53.08,
+            "L5": 52.85
+        },
+        "data": {
+            "best_vs": [
+                "Troll Warlord",
+                "Alchemist",
+                "Huskar",
+                "Abaddon",
+                "Tidehunter"
+            ],
+            "best_vs_advantage": [
+                4.13,
+                3.77,
+                3.43,
+                2.72,
+                2.55
+            ],
+            "worst_vs": [
+                "Weaver",
+                "Queen of Pain",
+                "Nature's Prophet",
+                "Sniper",
+                "Arc Warden"
+            ],
+            "worst_vs_disadvantage": [
+                3.79,
+                3.72,
+                3.02,
+                2.95,
+                2.82
+            ]
+        }
+    },
+    {
+        "localized_name": "Timbersaw",
+        "name": "npc_dota_hero_timbersaw",
+        "id": 111,
+        "cat_wins": {
+            "L1": 48.09,
+            "L2": 48.62,
+            "L3": 48.15,
+            "L4": 50.27,
+            "L5": 50.79
+        },
+        "data": {
+            "best_vs": [
+                "Phantom Lancer",
+                "Naga Siren",
+                "Meepo",
+                "Terrorblade",
+                "Huskar"
+            ],
+            "best_vs_advantage": [
+                5.48,
+                5.21,
+                4.90,
+                4.89,
+                3.99
+            ],
+            "worst_vs": [
+                "Death Prophet",
+                "Outworld Devourer",
+                "Silencer",
+                "Pugna",
+                "Batrider"
+            ],
+            "worst_vs_disadvantage": [
+                4.06,
+                3.89,
+                3.01,
+                2.94,
+                2.90
+            ]
+        }
+    },
+    {
+        "localized_name": "Tinker",
+        "name": "npc_dota_hero_tinker",
+        "id": 112,
+        "cat_wins": {
+            "L1": 46.53,
+            "L2": 46.22,
+            "L3": 46.73,
+            "L4": 47.17,
+            "L5": 48.64
+        },
+        "data": {
+            "best_vs": [
+                "Troll Warlord",
+                "Terrorblade",
+                "Morphling",
+                "Monkey King",
+                "Outworld Devourer"
+            ],
+            "best_vs_advantage": [
+                4.46,
+                4.12,
+                3.40,
+                3.30,
+                2.76
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Anti-Mage",
+                "Spectre",
+                "Storm Spirit",
+                "Visage"
+            ],
+            "worst_vs_disadvantage": [
+                5.70,
+                4.22,
+                3.79,
+                3.52,
+                3.28
+            ]
+        }
+    },
+    {
+        "localized_name": "Templar Assassin",
+        "name": "npc_dota_hero_templar_assassin",
+        "id": 113,
+        "cat_wins": {
+            "L1": 46.29,
+            "L2": 47.68,
+            "L3": 50.04,
+            "L4": 50.47,
+            "L5": 52.28
+        },
+        "data": {
+            "best_vs": [
+                "Shadow Fiend",
+                "Puck",
+                "Anti-Mage",
+                "Outworld Devourer",
+                "Zeus"
+            ],
+            "best_vs_advantage": [
+                4.53,
+                4.22,
+                3.62,
+                3.47,
+                3.34
+            ],
+            "worst_vs": [
+                "Meepo",
+                "Batrider",
+                "Huskar",
+                "Viper",
+                "Phantom Lancer"
+            ],
+            "worst_vs_disadvantage": [
+                7.07,
+                6.40,
+                6.20,
+                5.31,
+                5.02
+            ]
+        }
+    },
+    {
+        "localized_name": "Pugna",
+        "name": "npc_dota_hero_pugna",
+        "id": 114,
+        "cat_wins": {
+            "L1": 51.35,
+            "L2": 50.60,
+            "L3": 51.72,
+            "L4": 53.48,
+            "L5": 52.54
+        },
+        "data": {
+            "best_vs": [
+                "Troll Warlord",
+                "Timbersaw",
+                "Outworld Devourer",
+                "Slark",
+                "Necrophos"
+            ],
+            "best_vs_advantage": [
+                3.4,
+                2.98,
+                2.84,
+                2.64,
+                2.49
+            ],
+            "worst_vs": [
+                "Pudge",
+                "Visage",
+                "Anti-Mage",
+                "Lycan",
+                "Chaos Knight"
+            ],
+            "worst_vs_disadvantage": [
+                3.66,
+                3.48,
+                3.19,
+                3.08,
+                2.36
+            ]
+        }
+    },
+    {
+        "localized_name": "Venomancer",
+        "name": "npc_dota_hero_venomancer",
+        "id": 115,
+        "cat_wins": {
+            "L1": 50.31,
+            "L2": 50.53,
+            "L3": 51.1,
+            "L4": 51.38,
+            "L5": 53.25
+        },
+        "data": {
+            "best_vs": [
+                "Templar Assassin",
+                "Winter Wyvern",
+                "Lone Druid",
+                "Axe",
+                "Meepo"
+            ],
+            "best_vs_advantage": [
+                4.20,
+                3.09,
+                3.02,
+                2.83,
+                2.64
+            ],
+            "worst_vs": [
+                "Arc Warden",
+                "Enchantress",
+                "Phantom Lancer",
+                "Sniper",
+                "Legion Commander"
+            ],
+            "worst_vs_disadvantage": [
+                4.50,
+                3.70,
+                3.59,
+                2.74,
+                2.32
+            ]
+        }
+    },
+    {
+        "localized_name": "Clockwerk",
+        "name": "npc_dota_hero_clockwerk",
+        "id": 116,
+        "cat_wins": {
+            "L1": 51.34,
+            "L2": 53.25,
+            "L3": 53.39,
+            "L4": 52.78,
+            "L5": 52.89
+        },
+        "data": {
+            "best_vs": [
+                "Troll Wallord",
+                "Timbersaw",
+                "Outworld Devourer",
+                "Slark",
+                "Necrophos"
+            ],
+            "best_vs_advantage": [
+                3.43,
+                3.07,
+                2.80,
+                2.66,
+                2.51
+            ],
+            "worst_vs": [
+                "Pudge",
+                "Visage",
+                "Anti-Mage",
+                "Lycan",
+                "Chaos Knight"
+            ],
+            "worst_vs_disadvantage": [
+                3.72,
+                3.52,
+                3.23,
+                3.02,
+                2.28
+            ]
+        }
+    },
+    {
+        "localized_name": "Chaos Knight",
+        "name": "npc_dota_hero_chaos_knight",
+        "id": 117,
+        "cat_wins": {
+            "L1": 49.54,
+            "L2": 50.23,
+            "L3": 49.35,
+            "L4": 48.95,
+            "L5": 51.12
+        },
+        "data": {
+            "best_vs": [],
+            "best_vs_advantage": [],
+            "worst_vs": [],
+            "worst_vs_disadvantage": []
+        }
+    },
+    {
+        "localized_name": "Grimstroke",
+        "name": "npc_dota_hero_grimstroke",
+        "id": 118,
+        "cat_wins": {
+            "L1": 46.69,
+            "L2": 46.54,
+            "L3": 46.42,
+            "L4": 45.51,
+            "L5": 44.42
+        },
+        "data": {
+            "best_vs": [
+                "Naga Siren",
+                "Slark",
+                "Phantom Lancer",
+                "Pudge",
+                "Broodmother"
+            ],
+            "best_vs_advantage": [
+                2.67,
+                2.35,
+                2.24,
+                1.95,
+                1.93
+            ],
+            "worst_vs": [
+                "Visage",
+                "Shadow Demon",
+                "Gyrocopter",
+                "Pugna",
+                "Razor"
+            ],
+            "worst_vs_disadvantage": [
+                2.84,
+                2.26,
+                1.88,
+                1.79,
+                1.63
+            ]
+        }
+    },
+    {
+        "localized_name": "Life Stealer",
+        "name": "npc_dota_hero_lifestealer",
+        "id": 119,
+        "cat_wins": {
+            "L1": 46.31,
+            "L2": 47.19,
+            "L3": 46.93,
+            "L4": 46.83,
+            "L5": 47.96
+        },
+        "data": {
+            "best_vs": [
+                "Zeus",
+                "Phoenix",
+                "Spectre",
+                "Visage",
+                "Bloodseeker"
+            ],
+            "best_vs_advantage": [
+                3.0,
+                2.92,
+                2.86,
+                2.73,
+                2.45
+            ],
+            "worst_vs": [
+                "Broodmother",
+                "Enigma",
+                "Faceless Void",
+                "templar Assassin",
+                "Morphling"
+            ],
+            "worst_vs_disadvantage": [
+                3.44,
+                2.93,
+                2.68,
+                2.5,
+                2.4
+            ]
+        }
+    },
+    {
+        "localized_name": "Meepo",
+        "name": "npc_dota_hero_meepo",
+        "id": 120,
+        "cat_wins": {
+            "L1": 59.6,
+            "L2": 58.09,
+            "L3": 57.2,
+            "L4": 57.43,
+            "L5": 57.22
+        },
+        "data": {
+            "best_vs": [
+                "Anti-Mage",
+                "Broodmother",
+                "Templar Assassin",
+                "Bane",
+                "Shadow Shaman"
+            ],
+            "best_vs_advantage": [
+                10.91,
+                8.66,
+                7.87,
+                5.17,
+                5.06
+            ],
+            "worst_vs": [
+                "Elder Titan",
+                "Earth Shaker",
+                "Winter Wyvern",
+                "Leshrac",
+                "Shadow Fiend"
+            ],
+            "worst_vs_disadvantage": [
+                13.58,
+                11.09,
+                8.74,
+                7.8,
+                7.3
+            ]
+        }
+    }
+]
